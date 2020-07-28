@@ -228,10 +228,6 @@ method involving the insertion of additional scanlines during the vertical
 blanking period that allows for very stable overclocking of the SNES processors,
 which eliminates lag in virtually any game that has it.
 
-[Contra III overclocking](https://www.youtube.com/watch?v=gXGT75Ytw8w)
-
-[Gradius III overclocking](https://www.youtube.com/watch?v=viw3xMTXX40)
-
 ## Run-Ahead
 
 Thanks to the new cooperative serialization method,
@@ -239,8 +235,6 @@ Thanks to the new cooperative serialization method,
 Run-ahead is a truly magical technique that can remove entire frames of internal
 input latency from games. With a good setup, software emulation is now capable
 of achieving less input latency *than original hardware!!*
-
-[Run-ahead video demonstration](https://www.youtube.com/watch?v=1AvOa8yt6Vc)
 
 ## The Future is Bright
 
