@@ -16,7 +16,7 @@ please [file an issue](https://github.com/byuu/byuu.org).
 
   - [About byuu/Near](/about/)
   - Articles
-      - The State of Emulation (2004-10-12)
+      - [The State of Emulation](./articles/state-of-emulation/) (2004-10-12)
       - The State of Emulation, Part II (2007-08-05)
       - The State of Emulation, Part III (2010-08-01)
       - The State of Emulation, Part IV (2016-04-03)
