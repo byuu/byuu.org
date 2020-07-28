@@ -20,7 +20,7 @@ please [file an issue](https://github.com/byuu/byuu.org).
       - [The State of Emulation, Part II](./articles/state-of-emulation-ii/) (2007-08-05)
       - [The State of Emulation, Part III](./articles/state-of-emulation-iii/) (2010-08-01)
       - [The State of Emulation, Part IV](./articles/state-of-emulation-iv/) (2016-04-03)
-      - The State of Emulation, Part V (2019-11-13)
+      - [The State of Emulation, Part V](./articles/state-of-emulation-v/) (2019-11-13)
       - The Edge of Emulation (2020-01-21)
   - Projects
       - bsnes
