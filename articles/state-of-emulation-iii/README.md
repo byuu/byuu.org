@@ -1,9 +1,10 @@
 > This article was originally published on 2010-08-01,
 > the same day that bsnes v066 was released.
 > This was after a few months' work on the dot-based PPU renderer,
-> and after byuu used that research to remove the last
-> "we don't know why this works but it makes a game playable" hack
+> and after byuu used that research to remove [the last global hack][oamhack]
 > from the original scanline-based PPU renderer.
+
+[oamhack]: /articles/state-of-emulation-ii#ppuhackoam_address_invalidation-and-ppuhackcgram_address_invalidation
 
 # The State of Emulation, Part III
 
