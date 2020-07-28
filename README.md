@@ -25,6 +25,8 @@ please [file an issue](https://github.com/byuu/byuu.org).
   - Projects
       - bsnes
       - higan
+          - Game Paks
+          - Firmware
       - byuu
       - ares
   - Preservation
