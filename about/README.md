@@ -242,7 +242,7 @@ tested on real hardware, and well, it didn't go well.
 The emulators of the time did not really emulate the hardware limitations of the
 SNES, nor did they want to, as they knew it would break many fan translations
 that became dependent upon said inaccuracies. This led to me writing an article
-about it, [[The State of Emulation::https://medium.com/@byuu_san/the-state-of-emulation-part-i-1b8ee0052e18]].
+about it, [The State of Emulation](/articles/state-of-emulation/).
 
 Surprisingly, my venting was taken very well by the respective emulator
 developers, and I decided to give writing an emulator my first really serious
@@ -396,7 +396,7 @@ As of today, there are literally
 Some highlights include:
 
 * [Chrono Trigger](https://www.youtube.com/watch?v=v7U5hJCcTNI)
-* [The Legend of Zelda](A Link to the Past::https://www.youtube.com/watch?v=8AKSoDFUSKA)
+* [The Legend of Zelda: A Link to the Past](https://www.youtube.com/watch?v=8AKSoDFUSKA)
 * [Super Metroid](https://www.youtube.com/watch?v=EdTka_nlyD8)
 * [Super Road Blaster](https://www.youtube.com/watch?v=7YuWwoeAxCk)
 
@@ -474,7 +474,7 @@ self-documenting code style, to one optimized for performance instead.
 Today, bsnes is more than five times faster than higan, and boasts some really
 impressive, one-of-a-kind features.
 
-![higan running Lunar 2](Eternal Blue::/images/higan/core-mcd.png)
+![higan running Lunar 2: Eternal Blue](/images/higan/core-mcd.png)
 
 On the bright side, I did finally manage to emulate the Sega CD, 20 years
 later ^-^;
@@ -510,7 +510,7 @@ pixel scaling algorithms, or any other trickery being used.
 This is what a programmer by the name of DerKoun implemented into bsnes, and
 [the results were breathtaking](https://arstechnica.com/gaming/2019/04/hd-emulation-mod-makes-mode-7-snes-games-look-like-new/).
 
-[I eagerly merged HD mode 7 into bsnes](https://www.youtube.com/watch?v=H6u7Nk6_L50) upstream.
+I eagerly merged HD mode 7 into bsnes upstream.
 
 ![HD Mode 7 in bsnes](/images/about/hd-mode-7.jpg)
 
