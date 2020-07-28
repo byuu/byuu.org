@@ -2,6 +2,7 @@
 > a few days before work began on bsnes.
 > The original title was *Emulation: Hardware or Software?*,
 > but since *The State of Emulation, Part II* is clearly a direct sequel,
+> and since byuu himself re-published it later under this title,
 > it's been renamed *The State of Emulation* for clarity.
 > 
 > Also, there were supposed to be images,
