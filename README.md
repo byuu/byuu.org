@@ -14,7 +14,7 @@ please [file an issue](https://github.com/byuu/byuu.org).
 
 ## Contents
 
-  - About byuu/Near
+  - [About byuu/Near](/about/)
   - Articles
       - The State of Emulation, Part V (2019-11-13)
       - The Edge of Emulation (2020-01-21)
