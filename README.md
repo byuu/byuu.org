@@ -23,7 +23,7 @@ please [file an issue](https://github.com/byuu/byuu.org).
       - [The State of Emulation, Part V](./articles/state-of-emulation-v/) (2019-11-13)
       - [The Edge of Emulation](./articles/edge-of-emulation/) (2020-01-21)
   - Projects
-      - bsnes
+      - [bsnes](/bsnes)
       - higan
           - Game Paks
           - Firmware
