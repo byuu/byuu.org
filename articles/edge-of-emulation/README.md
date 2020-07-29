@@ -191,14 +191,14 @@ other effects.
 
 Imagine the expression:
 
-  3x + 7 = 22
+    3x + 7 = 22
 
 It's easy to deduce that x is 5 in this case. We could say that x here was the
 BG3 horizontal scroll latch cycle.
 
 But now let's say you have the expression:
 
-  2x + y = 120
+    2x + y = 120
 
 This could be solved if x were 30 and y were 60. But it could also be solved if
 x were 10 and y were 100. Or if x were 20 and y were 80. And so on.
