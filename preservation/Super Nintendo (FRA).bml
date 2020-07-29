@@ -1,0 +1,299 @@
+database
+  revision: 2018-09-21
+
+game
+  sha256:   65df600780021f13ced52e7fbc507b7b2e6491b2c5c25fe78d0515dcbe669403
+  label:    Aladdin
+  name:     Aladdin
+  region:   SNSP-RJ-FRA
+  revision: SFRA-RJ-0
+  board:    SHVC-2A0N-11
+    memory
+      type: ROM
+      size: 0x140000
+      content: Program
+
+game
+  sha256:   7baaa65ced8fed14e161615e1fffff971f10be4b723523b4a7302891db02ba09
+  label:    Blanco World Class Rugby
+  name:     Blanco World Class Rugby
+  region:   SNSP-WY-FRA
+  revision: SFRA-WY-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   dd920a8f29dde8712a246a56d28ac0825d15c041d7f77f97dbeb37680751ce68
+  label:    Dragon Ball Z: La Légende Saien
+  name:     Dragon Ball Z - La Legende Saien
+  region:   SNSP-EF-FRA
+  revision: SFRA-EF-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   e135511707c68c16d07b656f63e2b9dc42f436a37b0c85a949fc9e75e1111b34
+  label:    Dragon Ball Z: Super Butouden
+  name:     Dragon Ball Z - Super Butouden
+  region:   SNSP-Z2-FRA
+  revision: SFRA-Z2-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   663116d015cad3398644608ca6f2506071ab23d38b03b4890e1a6caecb1a55aa
+  label:    Dragon Ball Z: Ultime Menace
+  name:     Dragon Ball Z - Ultime Menace
+  region:   SNSP-AZ4F-FRA
+  revision: SPAL-AZ4F-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   a97a5ffdef892d7574e5cb807ec657059fd65490186feae975079cd11baa2df7
+  label:    Goof Troop
+  name:     Goof Troop
+  region:   SNSP-G6-FRA
+  revision: SFRA-G6-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   b2a44f5bb49f6a033e5c82f05356246f5918cacf6f026b88cab5a0b410659b01
+  label:    Illusion of Time
+  name:     Illusion of Time
+  region:   SNSP-JG-FRA
+  revision: SFRA-JG-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   8dc982c6dd0dfd094b74e4af94a2b10ddc51d334f7f0fa77a9f70917fa324e84
+  label:    Jimmy Connors Pro Tennis Tour
+  name:     Jimmy Connors Pro Tennis Tour
+  region:   SNSP-JC-FRA
+  revision: SFRA-JC-0
+  board:    SHVC-1A0N-10
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   7ba2709cffa654f73b3b1364c13d6a5b595b820629102fe3d51c10bca30d0e4e
+  label:    Jurassic Park
+  name:     Jurassic Park
+  region:   SNSP-J8-FRA
+  revision: SFRA-J8-0
+  board:    SHVC-2A0N-01
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   29a0d5812ccbb4b11bdb55d8f751a2a797b4110bf402ca8ba15eb2bf85db7b39
+  label:    The Legend of Zelda: A Link to the Past
+  name:     Legend of Zelda, The - A Link to the Past
+  region:   SNSP-ZL-FRA
+  revision: SFRA-ZL-0
+  board:    SHVC-1A3B-13
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   6d37b2ed794b2f3e5f3d28490ffe89a0ff3c8a0cfc0418bd2aa8e0c66d4868ff
+  label:    Le Livre de la Jungle
+  name:     Livre de la Jungle, Le
+  region:   SNSP-7K-FRA
+  revision: SPAL-7K-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   18f5666860c36fabebc909d262e234bb0bf51a87b55945c134118a4c36b49b52
+  label:    Mario is Missing!
+  name:     Mario is Missing!
+  region:   SNSP-MU-FRA
+  revision: SFRA-MU-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   600df7da79c95e14c1b9e6e54e0b3a061d079831d015ef6f31bc3772c1d0efc6
+  label:    MechWarrior
+  name:     MechWarrior
+  region:   SNSP-WM-FRA
+  revision: SFRA-WM-0
+  board:    SHVC-1A1M-01
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   1432590492b63d7103caa715e10e3c3ebbc77b63b6472ee9dee0e5afda311551
+  label:    Mystic Quest Legend
+  name:     Mystic Quest Legend
+  region:   SNSP-MQ-FRA
+  revision: SFRA-MQ-0
+  board:    SHVC-1A3M-20
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   a4621118ef174d2c8a9ffe934e31ff3a00f66a3aaa13340983eec43625a773f6
+  label:    Pac-Man 2: The New Adventures
+  name:     Pac-Man 2 - The New Adventures
+  region:   SNSP-25-FRA
+  revision: SFRA-25-0
+  board:    SHVC-2A0N-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   febcb3325240293cc82b4038630b89bbd936f092cb172107eb82452a5555859e
+  label:    Ranma ½
+  name:     Ranma Half
+  region:   SNSP-R2-FRA
+  revision: SFRA-R2-0
+  board:    SHVC-2J0N-01
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   896e09a0d24bfec0412aa75d121063b015153a754ed542f7db7d66366b555de4
+  label:    Le Roi Lion
+  name:     Roi Lion, Le
+  region:   SNSP-ALKP-FRA
+  revision: SPAL-ALKP-0
+  board:    SHVC-BJ0N-01
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   0aa16d6b588ba05ab00936201e68a694746fc5e1b2e4f2dbf7cda09265a81379
+  label:    Sailor Moon
+  name:     Sailor Moon
+  region:   SNSP-AE-FRA
+  revision: SFRA-AE-0
+  board:    SHVC-2J0N-11
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   b730adcbb34a19f8fd1c2abe27455cc3256329a9b8a021291e3009ea33004127
+  label:    Secret of Mana
+  name:     Secret of Mana
+  region:   SNSP-K2-FRA
+  revision: SFRA-K2-1
+  board:    SHVC-1J3M-11
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   f73e6da9e979c839c7c22ec487bea6667d3e65e7d8f9fcc97a2bcdeb4487cddf
+  label:    SimCity
+  name:     SimCity
+  region:   SNSP-SC-FRA
+  revision: SFRA-SC-0
+  board:    SHVC-1A5M-01
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+
+game
+  sha256:   1f226553ba05fe738d085a88154469bbc9f9058f7dfc320a327259d84ae5f393
+  label:    Soul Blazer
+  name:     Soul Blazer
+  region:   SNSP-SO-FRA
+  revision: SFRA-SO-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   5d0a234a2fcb343d169206d9d7d578507c44f800ead9cc9ccfa0b1d4cb1cc9e5
+  label:    Terranigma
+  name:     Terranigma
+  region:   SNSP-AQTF-FRA
+  revision: SPAL-AQTF-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+

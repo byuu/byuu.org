@@ -1,0 +1,31 @@
+database
+  revision: 2018-09-21
+
+game
+  sha256:   deab7aad7c168423e43eae14e9e31efa29c7341ab84f936be508911ce508b372
+  label:    MechWarrior
+  name:     MechWarrior
+  region:   SNSP-WM-ITA
+  revision: SITA-WM-0
+  board:    SHVC-1A1M-01
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   aafbae4c2a7a5a35c81a183df0470027b4b5690f836592af21c15af6b259328d
+  label:    Super Strike Gunner
+  name:     Super Strike Gunner
+  region:   SNSP-SG-ITA
+  revision: SPAL-SG-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+

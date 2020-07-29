@@ -1,0 +1,1501 @@
+database
+  revision: 2020-01-21
+
+game
+  sha256:   5c4e283efc338958b8dd45ebd6daf133a9eb280420a98e2e1df358ae0242c366
+  label:    スパイダーマン リーサルフォーズ
+  name:     Amazing Spider-Man, The - Lethal Foes
+  region:   SHVC-ASPJ-JPN
+  revision: SHVC-ASPJ-0
+  board:    SHVC-2J0N-11
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   6f6bacdd73aef29ff6a015c25db4a5cd8ba31142b2cc3fe56261d23bbf8329ea
+  label:    アンジェリーク プレミアムBox
+  name:     Angelique - Premium Box
+  region:   SHVC-AAZJ-JPN
+  revision: SHVC-AAZJ-0
+  board:    SHVC-1J5M-01
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+
+game
+  sha256:   1f7619ea0d02f16e2b2dcbb36013bb3405eb791885f23884b583eb63768614c4
+  label:    アンジェリーク ヴォイス・ファンタジー
+  name:     Angelique - Voice Fantasy
+  region:   SHVC-AQLJ-JPN
+  revision: SHVC-AQLJ-0
+  board:    SHVC-1J5M-01
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+
+game
+  sha256:   a98eb5f0521746e6ce6d208591e86d366b6e0479d96474bfff43856fe8cfec12
+  label:    バハムートラグーン
+  name:     Bahamut Lagoon
+  region:   SHVC-AXBJ-JPN
+  revision: SHVC-AXBJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   47779500c43a0c2e75d7684078489a17baea31170a123063b8ece6ce77359413
+  label:    ボール・ブレット・ガン
+  name:     Ball Bullet Gun
+  region:   SHVC-AAGJ-JPN
+  revision: SHVC-AAGJ-0
+  board:    SHVC-1A3M-30
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   a05f76cbceffc7b015491a1c4d4913758484d392471bca20af1dce6fd62d878b
+  label:    バトルトードインバトルマニアック
+  name:     Battletoads in Battlemaniacs
+  region:   SHVC-8T
+  revision: SHVC-8T-0
+  board:    SHVC-YA0N-01
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   af12d61733f120ef25cac2c095e0152345143025eb9d8ef820c7f857207d46ac
+  label:    バイオメタル
+  name:     Bio Metal
+  region:   SHVC-BV
+  revision: SHVC-BV-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   ecd772c4a21101d079a795e47abbe00052bef69cc1c854a328f0077016c53311
+  label:    ボンバーマン ビーダマン
+  name:     Bomberman B-Daman
+  region:   SHVC-AH9J-JPN
+  revision: SHVC-AH9J-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   3ce321496edc5d77038de2034eb3fb354d7724afd0bc7fd0319f3eb5d57b984d
+  label:    BS-X それは名前を盗まれた街の物語
+  name:     BS-X - Sore wa Namae o Nusumareta Machi no Monogatari
+  region:   SHVC-ZBSJ-JPN
+  revision: SHVC-ZBSJ-1
+  board:    BSC-1A5B9P-01
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+    memory
+      type: RAM
+      size: 0x80000
+      content: Download
+
+game
+  sha256:   6e7dcbb4df32903d6ff5da1e308342c0a72f5af3f11479cf49391dc3a17d5d7b
+  label:    キャプテンコマンドー
+  name:     Captain Commando
+  region:   SHVC-QM
+  revision: SHVC-QM-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   0938ff33f5bab359e383bb5499f4fcc2a488fe49747026db355c2d3d5c7c2fdb
+  label:    クロノ・トリガー
+  name:     Chrono Trigger
+  region:   SHVC-ACTJ-JPN
+  revision: SHVC-ACTJ-0
+  board:    SHVC-BJ3M-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   0a8e5b78caf79f4710de3ccc41e2d1975cff3a6cb4146be9ed1c8767be1b0c5d
+  label:    クロノ・トリガー 体験版サンプルROM
+  name:     Chrono Trigger - Taikenban Sample ROM
+  region:   SHVC-AC9J-JPN
+  revision: SHVC-AC9J-0
+  board:    SHVC-1J3M-11
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+      volatile
+  note: No battery on PCB
+
+game
+  sha256:   c195641a1b472590cb3d0be0c48d682b9fee94d7b700dd7bd3297bb995b49307
+  label:    Conveni Wars Barcode Battler 戦記 スーパー戦士 出撃せよ!
+  name:     Conveni Wars - Barcode Battler Senki - Super Senshi Shutsugeki seyo!
+  region:   SHVC-B5
+  revision: SHVC-B5-0
+  board:    SHVC-1J3B-01
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   7fccf61a698b250f01b548fd20a7c133ef1c6dbb8172d3ee6c24657b60820a00
+  label:    であえ殿さま あっぱれ一番
+  name:     Deae Tonosama Appare Ichiban
+  region:   SHVC-ADTJ-JPN
+  revision: SHVC-ADTJ-0
+  board:    SHVC-2A0N-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   248217975279bbf9db8e74da11a906a6dd867a3ec88441b0b031ecf900466618
+  label:    デモンズ・ブレイゾン 魔界村紋章編
+  name:     Demon's Blazon - Makaimura Monshou Hen
+  region:   SHVC-3Z
+  revision: SHVC-3Z-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   700e5d0a79a46d343216b822e28e6f3d0f33f68906f59b1c719735365c129553
+  label:    デア ラングリッサー
+  name:     Der Langrisser
+  region:   SHVC-ALGJ-JPN
+  revision: SHVC-ALGJ-1
+  board:    SHVC-1A3M-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   38a855229eab468c3ede7573db73082c66b157adfc7af787ccac50559b747f5f
+  label:    ダービースタリオン96
+  name:     Derby Stallion '96
+  region:   SHVC-ZDBJ-JPN
+  revision: SHVC-ZDBJ-0
+  board:    BSC-1A5M-02
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+
+game
+  sha256:   b7209ec3a5a0d28724f5867343195aef7cb85aeb453aa84a6cbe201b61b0d083
+  label:    ドレミファンタジー ミロンのドキドキ大冒険
+  name:     DoReMi Fantasy - Milon no Dokidoki Daibouken
+  region:   SHVC-AM4J-JPN
+  revision: SHVC-AM4J-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   dcb14c95f058a32f40cc329793f5d95fd6cf1755cffe02c0594d1c583a06d356
+  label:    エミット Vol. 1 時の迷子
+  name:     Emit Vol. 1 - Toki no Maigo
+  region:   SHVC-AEMJ-JPN
+  revision: SHVC-AEMJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   dc1ecf27d9ce4fdf674c9405339016f5a812f7c4687e588cc6404e2b3b92541a
+  label:    エミット Vol. 2 命がけの旅
+  name:     Emit Vol. 2 - Inochigake no Tabi
+  region:   SHVC-AEIJ-JPN
+  revision: SHVC-AEIJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   f49417cb8759a30e12439e846f7d581afd1519c625e6a0522876666098521fcc
+  label:    エミット Vol. 3 私にさよならを
+  name:     Emit Vol. 3 - Watashi ni Sayonara o
+  region:   SHVC-AETJ-JPN
+  revision: SHVC-AETJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   69d06a3f3a4f3ba769541fe94e92b42142e423e9f0924eab97865b2d826ec82d
+  label:    Far East of Eden 天外魔境Zero 少年ジャンプの章
+  name:     Far East of Eden - Tengai Makyou Zero - Shounen Jump no Shou
+  region:   SHVC-AZQJ-JPN
+  revision: SHVC-AZQJ-0
+  board:    SHVC-LDH3C-01
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: ROM
+      size: 0x400000
+      content: Data
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+    memory
+      type: RTC
+      size: 0x10
+      content: Time
+      manufacturer: Epson
+      identifier: RTC4513
+
+game
+  sha256:   74aa3a26b66f34819fbbdcdb2475cf9161cc2590fb1ec89fb24940ef10e44332
+  label:    ファイナルファンタジーIV
+  name:     Final Fantasy IV
+  region:   SHVC-F4
+  revision: SHVC-F4-0
+  board:    SHVC-1A3B-11
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   32125257a20c4a6495131f5df79128d189cf6dfb6d45e5314f8b0173ac6f6ebd
+  label:    ファイナルファイト タフ
+  name:     Final Fight Tough
+  region:   SHVC-AFZJ-JPN
+  revision: SHVC-AFZJ-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   2d0e06e970ad7a1305db754a3a92b6e07e2eab848be196c8182b48dc416f1762
+  label:    ファイアーエムブレム トラキア776
+  name:     Fire Emblem - Thracia 776
+  region:   SHVC-BFRJ-JPN
+  revision: SHVC-BFRJ-0
+  board:    SHVC-1A5M-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+
+game
+  sha256:   db337a2e8cf6de653d092ba3489cabc658f91c63ec8a9db4e1866400aadf913f
+  label:    ゲットインザホール
+  name:     Get in the Hole
+  region:   SHVC-AGHJ-JPN
+  revision: SHVC-AGHJ-0
+  board:    SHVC-2J3M-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   b248b2122a0caf99298ebd9a4f66ad8047dbfce1e4bbac8219ba3ea9fb7488b5
+  label:    ゴーストチェイサー電精
+  name:     Ghost Chaser Densei
+  region:   SHVC-ET
+  revision: SHVC-ET-0
+  board:    SHVC-1J0N-10
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   3a59d7d8df992e9e19c3944f1e17b8a3e9500b266412f51af306e14ff543ab45
+  label:    グール・パトロール
+  name:     Ghoul Patrol
+  region:   SHVC-AGJJ-JPN
+  revision: SHVC-AGJJ-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   4e790991a1dc4a9df209f68895412597b4069b42971683c3a3092a160556f305
+  label:    ごきんじょ冒険隊
+  name:     Gokinjo Boukentai
+  region:   SHVC-A3LJ-JPN
+  revision: SHVC-A3LJ-0
+  board:    SHVC-1J1M-20
+    memory
+      type: ROM
+      size: 0x280000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   8d4e736e1876182a5cc6d9dcc3ca4eb36b16485bc35e2f40e750d023138ada43
+  label:    美食戦隊 薔薇野郎
+  name:     Gourmet Sentai - Bara Yarou
+  region:   SHVC-AV6J-JPN
+  revision: SHVC-AV6J-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   4a910531609abb6e0a8bab15c1c6269b608eb72cb2fbf227c0e706d0d6f6fe5b
+  label:    ザ・グレイトバトルV
+  name:     Great Battle V, The
+  region:   SHVC-AG5J-JPN
+  revision: SHVC-AG5J-0
+  board:    SHVC-2A0N-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   83a9d5c7732677838fd4812071aacf04e513e43b3a52e68bd7242db23b2ecc95
+  label:    鋼
+  name:     Hagane
+  region:   SHVC-AHGJ-JPN
+  revision: SHVC-AHGJ-0
+  board:    SHVC-1J0N-10
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   8e0d620a307a225a757bbc9ef2a2a666792e5d533aa0279d3c0060a1b93ead82
+  label:    アイアンコマンドー 鋼鉄の戦士
+  name:     Iron Commando - Koutetsu no Senshi
+  region:   SHVC-AICJ-JPN
+  revision: SHVC-AICJ-0
+  board:    SHVC-2A0N-20
+    memory
+      type: ROM
+      size: 0x140000
+      content: Program
+
+game
+  sha256:   4dfba33201de6b5dec952d0f327aeb44ed784c025a72c982356dd41b52efc219
+  label:    糸井重里のバス釣りNo. 1
+  name:     Itoi Shigesato no Bass Tsuri No. 1
+  region:   SHVC-ZBPJ-JPN
+  revision: SHVC-ZBPJ-0
+  board:    BSC-1L3B-01
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+    memory
+      type: RAM
+      size: 0x800
+      content: Internal
+      volatile
+
+game
+  sha256:   23b320be74b9fc20de512080be3051575ba36c3246d5c4ee224f31a2fa7808f5
+  label:    常勝麻雀天牌
+  name:     Joushou Mahjong Tenpai
+  region:   SHVC-ZTMJ-JPN
+  revision: SHVC-ZTMJ-0
+  board:    BSC-1J3M-01
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   ff19a9c3f5a1ccb3ac6261886f54870ac910b0f25df9e46a436e4a621f8a0a59
+  label:    化学者ハリーの波乱万丈
+  name:     Kagakusha Harley no Haran Banjou
+  region:   SHVC-HV
+  revision: SHVC-HV-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   f9ec39546e18b15b8f6a738204d0227c1542cd8157e3e0ea16934e76f39e288c
+  label:    迦楼羅王
+  name:     Karuraou
+  region:   SHVC-OH
+  revision: SHVC-OH-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   1281841d3b9624e3b4cc3234f46350ce65473fba8d963b30a9f25b5385b8dd83
+  label:    奇々怪界 謎の黒マント
+  name:     Kiki Kaikai - Nazo no Kuro Manto
+  region:   SHVC-KK
+  revision: SHVC-KK-0
+  board:    SHVC-1A0N-10
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   374e411f64e4fd581a32296c90a5c74c0adf2936003077565e0672d0a91affdf
+  label:    奇々快界 月夜草子
+  name:     Kiki Kaikai - Tsukiyo Soushi
+  region:   SHVC-3N
+  revision: SHVC-3N-0
+  board:    SHVC-2A0N-11
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   1906b351d51fc0fc6d5a3cfa0fe7cb45b10d09aba256c411f5abad827bce95c6
+  label:    カービイのきらきらきっず
+  name:     Kirby no Kirakira Kids
+  region:   SHVC-BKKJ-JPN
+  revision: SHVC-BKKJ-0
+  board:    SHVC-1A1M-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   0266520683f2df2179a2e6abf62754d0e8c7d82d12e59d3d3cbf7ae403a2625f
+  label:    レナスII 封印の使徒
+  name:     Lennus II - Fuuin no Shito
+  region:   SHVC-ALNJ-JPN
+  revision: SHVC-ALNJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   fe44f9d0db9f04f704764577b94e5bf2e18bc7a1c4ff1e6bdaca06d49ed6813c
+  label:    リーサルエンフォーサーズ
+  name:     Lethal Enforcers
+  region:   SHVC-LK
+  revision: SHVC-LK-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   106c8158a10f493e0f57bd66ee3b3db36af01964bc44a48819498bf02cb1af7c
+  label:    マジカルドロップ2 文化放送スペシャルバージョン
+  name:     Magical Drop 2 - Bunka Housou Special Version
+  region:   SHVC-AOQJ-JPN
+  revision: SHVC-AOQJ-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   ed617ad12c865fc9c9c5c75de840d3afeded57d13ca3a3062bf8e30095629414
+  label:    マジカルポップン
+  name:     Magical Pop'n
+  region:   SHVC-AIAJ-JPN
+  revision: SHVC-AIAJ-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   78d0f6dd9ce0813e0532c7b25c7fa0b6b945d12a4ace21aa940e98babf4dacb1
+  label:    魔獣王
+  name:     Majuuou
+  region:   SHVC-AOHJ-JPN
+  revision: SHVC-AOHJ-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   c51c5930b344f553415d54c3c964c050e1eb6355b10f5966deabb686e70e1750
+  label:    マリオとワリオ
+  name:     Mario & Wario
+  region:   SHVC-WE
+  revision: SHVC-WE-0
+  board:    SHVC-YA0N-01
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   e842cac1a4301be196f1e137fbd1a16866d5c913f24dbca313f4dd8bd7472f45
+  label:    マリオペイント
+  name:     Mario Paint
+  region:   SHVC-MP
+  revision: SHVC-MP-0
+  board:    SHVC-1A5B-04
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+
+game
+  sha256:   dd314086a62e587bc6ad50c84a38a6ff9082b2d2d06dc50be5fa4c096bed5da3
+  label:    マイティ・モーフィン・パワーレンジャー
+  name:     Mighty Morphin Power Rangers
+  region:   SHVC-52
+  revision: SHVC-52-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   2298d92acdfecc7270a6c9a57a6ddc55d7fa841fe9c0e7c0d64e33682fffa429
+  label:    ミニ四駆シャイニングスコーピオン レッツ&ゴー!!
+  name:     Mini Yonku Shining Scorpion - Let's & Go!!
+  region:   SHVC-A4WJ-JPN
+  revision: SHVC-A4WJ-0
+  board:    SHVC-1L5B-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+    memory
+      type: RAM
+      size: 0x800
+      content: Internal
+      volatile
+
+game
+  sha256:   a5bfdaaf490d834917f7ac23ec115147b4c94bf4c18c62e18c64431d7cc79b01
+  label:    もと子ちゃんのワンダーキッチン
+  name:     Motoko-chan no Wonder Kitchen
+  region:   SHVC-WK
+  revision: SHVC-WK-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   97c5dcdc457fb29e6294ed93bc2a74117126c45eb399c7caf5920eca36fb63ec
+  label:    忍者龍剣伝巴
+  name:     Ninja Ryuukenden Tomoe
+  region:   SHVC-ANRJ-JPN
+  revision: SHVC-ANRJ-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   c48a4ca22d001eb269fd85110fbe459034bf89f14b5b2733ee70b2d10c0687c0
+  label:    ザ・ニンジャウォリアーズアゲイン
+  name:     Ninja Warriors, The - Again
+  region:   SHVC-NI
+  revision: SHVC-NI-0
+  board:    SHVC-2A0N-11
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   b41126e52ce1696da2efe524f7fd7467d76dcc3fbfa52ff6666671137587b089
+  label:    ノーマーク暴牌党 史上最強の雀士達
+  name:     Nomark Baku Haitou - Shijou Saikyou no Janshi-tachi
+  region:   SHVC-AAPJ-JPN
+  revision: SHVC-AAPJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   d712adecbde70a74c4a580fe90a45d0d19f2641d1b4e091d507bddeec9601de1
+  label:    音楽ツクールかなでーる
+  name:     Ongaku Tsukuuru Kanadeeru
+  region:   SHVC-ZMCJ-JPN
+  revision: SHVC-ZMCJ-0
+  board:    BSC-1J5M-01
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+
+game
+  sha256:   18434c35fe5196bf699494bb5dbabda23019cfea099f4ca638437fda43133b39
+  label:    パチンコファン 勝利宣言
+  name:     Pachinko Fan - Shouri Sengen
+  region:   SHVC-APSJ-JPN
+  revision: SHVC-APSJ-1
+  board:    SHVC-1A3M-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   87e8e3f8b4fc83d2e56662c8b6844b104f6b562744c090d96cdacfcb9523af39
+  label:    パチンコ鉄人 七番勝負
+  name:     Pachinko Tetsujin - Nanaban Shoubu
+  region:   SHVC-A77J-JPN
+  revision: SHVC-A77J-0
+  board:    SHVC-2A3M-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   e9a1f5cf088e060293b5566e7f518b0da89aeaebffb1c3f73fcc3f36fac036ae
+  label:    ピットフォール マヤの大冒険
+  name:     Pitfall - Maya no Daibouken
+  region:   SHVC-APAJ-JPN
+  revision: SHVC-APAJ-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   96af51216ee7d2978265a474e382835a88b78d12b456a57f39f944a048e95574
+  label:    プロック
+  name:     Plok!
+  region:   SHVC-P4
+  revision: SHVC-P4-0
+  board:    SHVC-1A0N-10
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   e98821977389fe0ae16ec22e1f63d226698b5f869b2228885bd231a8a551c003
+  label:    ポコニャン! へんぽこりんアドベンチャー
+  name:     Pokonyan! - Henpokorin Adventure
+  region:   SHVC-APOJ-JPN
+  revision: SHVC-APOJ-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   82a9ee11b5640409c67772363f1148517b26127cef13aa2a8ffc2480b487d81f
+  label:    レンダリング・レンジャーR²
+  name:     Rendering Ranger R2
+  region:   SHVC-AVCJ-JPN
+  revision: SHVC-AVCJ-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   4fc2832e7aa01d105ca67977b38840ec1188869b5e74d20e58613c1cd127d78f
+  label:    ロックマン&フォルテ
+  name:     Rockman & Forte
+  region:   SHVC-AR6J-JPN
+  revision: SHVC-AR6J-0
+  board:    SHVC-1J1M-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   2626625f29e451746c8762f9e313d1140457fe68b27d36ce0cbee9b5c5be9743
+  label:    ロックマンエックス
+  name:     Rockman X
+  region:   SHVC-RX
+  revision: SHVC-RX-0
+  board:    SHVC-2A0N-01#A
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+  note: Custom wiring on PCB
+
+game
+  sha256:   76f80cdf704a0e1daf1af5bbf564e427b425a5ee42329417de6f29219fe63e5f
+  label:    ロックマンエックス
+  name:     Rockman X
+  region:   SHVC-RX
+  revision: SHVC-RX-1
+  board:    SHVC-2A0N-11
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   6dfc016c571a16e5d42045060b1a88b6f3da5831e05b33c22035e1d990deccf3
+  label:    ロマンシング サ・ガ3 体験版サンプルROM
+  name:     Romancing SaGa 3 - Taikenban Sample ROM
+  region:   SHVC-AL9J-JPN
+  revision: SHVC-AL9J-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+
+game
+  sha256:   d1e0d1c930011d22423cb7cde8feac445a00705da8067a4e53a735b08389a19d
+  label:    RPGツクール2
+  name:     RPG Tsukuuru 2
+  region:   SHVC-ZR2J-JPN
+  revision: SHVC-ZR2J-0
+  board:    BSC-1A7M-01
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x10000
+      content: Save
+
+game
+  sha256:   00e78318926e5cae79bce0535fddd3dccaa732f5c70e43acefc2769a9899eaed
+  label:    ラッシング・ビート修羅
+  name:     Rushing Beat Shura
+  region:   SHVC-R6
+  revision: SHVC-R6-0
+  board:    SHVC-1J0N-01
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   3a709383208d8258dceb20a5e566903326515ba42931bf97fd389a415a13a72d
+  label:    鮫亀
+  name:     Same Game
+  region:   SHVC-ZS5J-JPN
+  revision: SHVC-ZS5J-0
+  board:    BSC-1J3M-01
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   208f5ecb7a82b33629e67f39e96b7aa7a992cb2fcc3d1e4eb959abb0a8b7dd95
+  label:    SDガンダム ジーネクスト
+  name:     SD Gundam G Next
+  region:   SHVC-ZX3J-JPN
+  revision: SHVC-ZX3J-0
+  board:    BSC-1L5B-01
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+    memory
+      type: RAM
+      size: 0x800
+      content: Internal
+      volatile
+
+game
+  sha256:   f1acb9fb0c73b4799b28c26d339823a8c6713106fdf1a15260e75ebb47b376f7
+  label:    聖剣伝説3 体験版サンプルROM
+  name:     Seiken Densetsu 3 - Taikenban Sample ROM
+  region:   SHVC-A3EJ-JPN
+  revision: SHVC-A3EJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+      volatile
+  note: No battery on PCB
+
+game
+  sha256:   601161a459e68824a24e635190e9e786dc93081803b4db66ac5a4744bb422841
+  label:    少年忍者サスケ
+  name:     Shounen Ninja Sasuke
+  region:   SHVC-EO
+  revision: SHVC-EO-0
+  board:    SHVC-2A3M-11
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   302ba8a084081bbdd4f1f25bb473fe072b07d1514716c5a3ffd258595e9a176d
+  label:    ソニックブラストマンII
+  name:     Sonic Blast Man II
+  region:   SHVC-2C
+  revision: SHVC-2C-0
+  board:    SHVC-2J0N-11
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   7be858fc681df6728650f460d67fe6c80d816d5fbfc530c11153f652f8b1878e
+  label:    サウンドノベルツクール
+  name:     Sound Novel Tsukuuru
+  region:   SHVC-ZSNJ-JPN
+  revision: SHVC-ZSNJ-0
+  board:    BSC-1A7M-10
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x10000
+      content: Save
+
+game
+  sha256:   efae37be832d0ea1490784d57bef00761a8bf0b5bcef9c23f558e063441c3876
+  label:    スターオーシャン
+  name:     Star Ocean
+  region:   SHVC-ARFJ-JPN
+  revision: SHVC-ARFJ-0
+  board:    SHVC-LN3B-01
+    memory
+      type: ROM
+      size: 0x600000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   e722d20b9c264f81bbdb37d77338c5767f6b549af489486e75a648a0a65d5bfc
+  label:    ストーンプロテクターズ
+  name:     Stone Protectors
+  region:   SHVC-ASOJ-JPN
+  revision: SHVC-ASOJ-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   f15731675e22dbf3882b777b2d8cd541a637dfdf5d8880c83903cf1e0b64590e
+  label:    ストリートファイターZero 2
+  name:     Street Fighter Zero 2
+  region:   SHVC-AUZJ-JPN
+  revision: SHVC-AUZJ-0
+  board:    SHVC-1N0N-10
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+
+game
+  sha256:   edacb453da14f825f05d1134d6035f4bf034e55f7cfb97c70c4ee107eabc7342
+  label:    スーファミターボ
+  name:     Sufami Turbo
+  region:   SHVC-A9PJ-JPN
+  revision: SHVC-A9PJ-0
+  board:    BANDAI-PT-923
+    memory
+      type: ROM
+      size: 0x40000
+      content: Program
+
+game
+  sha256:   e57aa265b2fbfb7ee7f5488a3df06ae771db202d59ebbd13df8fc2db80a856f3
+  label:    スーパー・バック・トゥ・ザ・フューチャーII
+  name:     Super Back to the Future - Part II
+  region:   SHVC-B2
+  revision: SHVC-B2-0
+  board:    SHVC-1A0N-10
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   442397be57b3740ca236cfb37633b95f88a2c80dafc94b56a805229793563ce1
+  label:    スーパーボンバーマン2 体験版
+  name:     Super Bomberman 2 - Taikenban
+  region:   SHVC-9B
+  revision: SHVC-9B-0
+  board:    SHVC-1J0N-10
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   5f8e6894f71c62bc5e70485715dbd2e2d8f3c0383ec54211dc5fe180098d0e3f
+  label:    スーパーボンバーマン5 コロコロコミック
+  name:     Super Bomberman 5 - CoroCoro Comic
+  region:   SHVC-AK8J-JPN
+  revision: SHVC-AK8J-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   f73238b97807fc37911d9e94ad7b671be2746baf11200974e12aeb089b7f3c35
+  label:    スーパーフォーメーションサッカー95 デッラセリエA ザクア
+  name:     Super Formation Soccer '95 - della Serie A - Xaqua
+  region:   SHVC-ADEJ-JPN
+  revision: SHVC-ADEJ-0
+  board:    SHVC-2J3M-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   4d7fc331a811b8dc630b469262fd6f45e289243cef83101f32038158967d1b28
+  label:    スーパーゲームボーイ
+  name:     Super Game Boy
+  region:   SHVC-SGB
+  revision: SYS-SGB-2
+  board:    SGB-R-10
+    memory
+      type: ROM
+      size: 0x40000
+      content: Program
+    memory
+      type: ROM
+      size: 0x100
+      content: Boot
+      manufacturer: Nintendo
+      architecture: SM83
+      identifier: SGB1
+
+game
+  sha256:   e1db895a9da7ce992941c1238f711437a9110c2793083bb04e0b4d49b7915916
+  label:    スーパーゲームボーイ2
+  name:     Super Game Boy 2
+  region:   SHVC-SGB2-JPN
+  revision: SYS-SGB2-10
+  board:    SHVC-SGB2-01
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+    memory
+      type: ROM
+      size: 0x100
+      content: Boot
+      manufacturer: Nintendo
+      architecture: SM83
+      identifier: SGB2
+    oscillator
+      frequency: 20971520
+
+game
+  sha256:   f56c083e54bc94efdc46c5224b3ceebc56c8ba7a0c38ee8620b0f73cd1317677
+  label:    スーパー麻雀大会
+  name:     Super Mahjong Taikai
+  region:   SHVC-IQ
+  revision: SHVC-IQ-0
+  board:    SHVC-1A3B-13
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   96c0cb3c670c36e068c36b38d1edae145f24f60159537da4988bf956eee58d59
+  label:    スーパー麻雀大会
+  name:     Super Mahjong Taikai
+  region:   SHVC-IQ
+  revision: SHVC-IQ-1
+  board:    SHVC-1A3B-13
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   b3204162def67b0dc40097344074e9b660ed296e5b5e22e778f373f0b985645b
+  label:    スーパー麻雀大会
+  name:     Super Mahjong Taikai
+  region:   SHVC-IQ
+  revision: SHVC-IQ-2
+  board:    SHVC-1A3B-13
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   15d1187d17fa10c77152f691197d33674e64c33a1f8ceb37e8570588be507b89
+  label:    スーパー麻雀大会
+  name:     Super Mahjong Taikai
+  region:   SHVC-IQ
+  revision: SHVC-IQ-3
+  board:    SHVC-1A3B-13
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   68def3754ee32d6bce8f7e346e4d46dc2861c2c590835f8151c291c78f37b21b
+  label:    スーパー桃太郎電鉄DX JR西日本Presents
+  name:     Super Momotarou Dentetsu DX - JR Nishi Nihon Presents
+  region:   SHVC-ANWJ-JPN
+  revision: SHVC-ANWJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   3972e52c1a6641842160ed70bac59c51d0d68a234deb8b2ad3b1e5daea38446e
+  label:    す～ぱ～忍者くん
+  name:     Super Ninja-kun
+  region:   SHVC-8Q
+  revision: SHVC-8Q-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   ecd462c64516169cc83dd266af354fe676fcf53811863a361d78cc918619da0d
+  label:    スーパー三国志II 復刻版
+  name:     Super Sangokushi II
+  region:   SHVC-XL
+  revision: SHVC-XL-1
+  board:    SHVC-1A5M-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+
+game
+  sha256:   fde83367c1caf6edfb41a0c609bacc90084e9808b32ba52b13d204eb59535ab5
+  label:    スーパースコープ6
+  name:     Super Scope 6
+  region:   SHVC-LR
+  revision: SHVC-LR-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   8dda3b0888a32005041f2feb9be4e14807d40291f951a4612461cf41dac9cb78
+  label:    Super Tetris 2 + Bombliss
+  name:     Super Tetris 2 + Bombliss
+  region:   SHVC-T2
+  revision: SHVC-T2-0
+  board:    SHVC-1A1B-06
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   a72b6f6722decc1c9e3f979f3d637794d3016b525822dd97f2aeba88696959aa
+  label:    スーパータリカン
+  name:     Super Turrican
+  region:   SHVC-T9
+  revision: SHVC-T9-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   db04fad1cfb1b8a58cb05ce62ae9e66532923699b54499344869cf8143f06098
+  label:    すってはっくん
+  name:     Sutte Hakkun
+  region:   SHVC-BSHJ-JPN
+  revision: SHVC-BSHJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x2e0000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   77b2d5450ce3c87185f913c2584673530c13dfbe8cc433b1e9fe5e9a653bf7d5
+  label:    テイルズオブファンタジア
+  name:     Tales of Phantasia
+  region:   SHVC-ATVJ-JPN
+  revision: SHVC-ATVJ-0
+  board:    SHVC-LJ3M-01
+    memory
+      type: ROM
+      size: 0x600000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   c9002e77bcc656e033c35e2574ee6067c4c0d070943359a850806c123a558949
+  label:    戦え原始人3 主役はやっぱりジョーアンドマック
+  name:     Tatakae Genshijin 3 - Shuyaku wa Yappari Joe & Mac
+  region:   SHVC-J3
+  revision: SHVC-J3-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   b97f1bb3c7258d500660757a57c1c7e1d90a719dfcf7b3de5e8a0d06f7f8e814
+  label:    ティーンエージ ミュータント ニンジャ タートルズ／タートルズ イン タイム
+  name:     Teenage Mutant Ninja Turtles - Turtles in Time
+  region:   SHVC-TM
+  revision: SHVC-TM-0
+  board:    SHVC-1A0N-02
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   d844223275a9f8d428c73d5540c6e9ddd2781c53ba8a8d733bde5835ebfa4e25
+  label:    UFO仮面ヤキソバン ケトラーの黒い陰謀 景品版
+  name:     UFO Kamen Yakisoban - Kettler no Kuroi Inbou - Keihinban
+  region:   SHVC-Y7
+  revision: SHVC-Y7-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   b66da2a23f249e525b1dd444596a3f10559cb3c30fa3c0bca83ed8f4405fcfcf
+  label:    Undake 30 鮫亀大作戦 マリオバージョン
+  name:     Undake 30 - Same Game Daisakusen - Mario Version
+  region:   SHVC-ANZJ-JPN
+  revision: SHVC-ANZJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x60000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   cb8073cf95eace56ba4324a2106164fa540900c2de083aff490c4afe91ae95f7
+  label:    アンダーカバーコップス
+  name:     Undercover Cops
+  region:   SHVC-AUCJ-JPN
+  revision: SHVC-AUCJ-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   6b37c3bd79db2553bf71b79efbb131d96c40462cffac54c40dbc783f1ef44428
+  label:    ワイルドガンズ
+  name:     Wild Guns
+  region:   SHVC-4W
+  revision: SHVC-4W-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   491b5d20c0e00eaa7ae89e9f4cde044408258aa31042bb3ed16dff082e01a7a7
+  label:    レッキングクルー'98
+  name:     Wrecking Crew '98
+  region:   SHVC-BWCJ-JPN
+  revision: SHVC-BWCJ-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x1e0000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   c06e3c14a2f73180a7a6ff50ee76790c4542d58e8994bb3fae06412f7303d089
+  label:    やまねこバブジーの大冒険
+  name:     Yamaneko Bubsy no Daibouken
+  region:   SHVC-UY
+  revision: SHVC-UY-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   2b2fe61ac7a79c3cfaa0bc16f1b1f4da544fcc37cfdf3c18879d31b8b9f87941
+  label:    ヨッシーのクッキー クルッポンオーブンでクッキー
+  name:     Yoshi no Cookie - Kuruppon Oven de Cookie
+  region:   SHVC-YO
+  revision: SHVC-YO-0
+  board:    SHVC-1A0N-10
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   64a124461cc12dd073191563729f559d0cf8911890ca7ede051e32024f6d9695
+  label:    妖怪バスター ルカの大冒険
+  name:     Youkai Buster - Ruka no Daibouken
+  region:   SHVC-AYOJ-JPN
+  revision: SHVC-AYOJ-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+

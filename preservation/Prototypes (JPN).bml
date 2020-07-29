@@ -1,0 +1,27 @@
+database
+  revision: 2018-04-14
+
+game
+  sha256:   182cd72c2ef57119b56bef1f7c18660498422a912f1bb652771d465cd183b04e
+  label:    From TV Animation - Slam Dunk - 集英社Limited
+  name:     From TV Animation - Slam Dunk - Shuueisha Limited
+  region:   JPN
+  revision: 1.0
+  board:    SHVC-4PV5B-01
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   bcba4ca39f0279f7a52657bccbffa84564eaea455e2565597b93942ec245fdb1
+  label:    くにおくんのドッジボールだよ 全員集合! トーナメントスペシャル
+  name:     Kunio-kun no Dodgeball da yo - Zen'in Shuugou! - Tournament Special
+  region:   JPN
+  revision: 1.0
+  board:    SHVC-2P3B-01
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+

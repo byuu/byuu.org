@@ -1,0 +1,83 @@
+database
+  revision: 2018-09-21
+
+game
+  sha256:   beb379ba48f63561c0f939ecd8f623ec06c1b5e06976eef9887e5c62f3df2766
+  label:    Gods
+  name:     Gods
+  region:   SNSP-GZ-SCN
+  revision: SPAL-GZ-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   896e09a0d24bfec0412aa75d121063b015153a754ed542f7db7d66366b555de4
+  label:    The Lion King
+  name:     Lion King, The
+  region:   SNSP-ALKP-SCN
+  revision: SPAL-ALKP-0
+  board:    SHVC-BJ0N-01
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   4fb9eb8fa4d9c3a0b6c24bac5b0a0b0f079f083f5e6dfa937a161c8f4bcde853
+  label:    Shadowrun
+  name:     Shadowrun
+  region:   SNSP-WR-SCN
+  revision: SSWE-WR-0
+  board:    SHVC-1A3M-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   e15247495311e91db9431d61777a264d4b42def011291d512b273fc8acd1cbfa
+  label:    Soul Blazer
+  name:     Soul Blazer
+  region:   SNSP-SO-SCN
+  revision: SPAL-SO-0
+  board:    SHVC-1A3B-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   687c4f9a14cc16605f5e92aa0fe33bf083fe8e39ba781676259fadf932480890
+  label:    Tintin i Tibet
+  name:     Tintin i Tibet
+  region:   SNSP-AT6X-SCN
+  revision: SPAL-AT6X-0
+  board:    SHVC-2A0N-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   a6297356fb06f1575b432fae463171f53e3b786fd77b841557547a9117fb52fe
+  label:    X-Zone
+  name:     X-Zone
+  region:   SNSP-XZ-SCN
+  revision: SPAL-XZ-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+

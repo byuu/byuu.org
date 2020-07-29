@@ -1,0 +1,20 @@
+database
+  revision: 2018-04-14
+
+game
+  sha256:   1edcceab07d1544dcbd0fd681148b0fbefeea58b7077136fa0c3011973bf34df
+  label:    FIFA: A Caminho da Copa '98
+  name:     FIFA - A Caminho da Copa '98
+  region:   SNS-A8FB-BRA
+  revision: SNS-A8FB-0
+  board:    EA-1A3M-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+  note: Serial# is from ROM data; it is not present on cartridge or ROM chip
+

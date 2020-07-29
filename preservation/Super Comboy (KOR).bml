@@ -1,0 +1,67 @@
+database
+  revision: 2018-04-14
+
+game
+  sha256:   b820ef79c16b3f43139cc9622c685020db3e87364c3a0f3946242bff93b787c8
+  label:    드래곤볼Z 초무투전3
+  name:     Dragon Ball Z - Chomutujeon
+  region:   SNSN-AZ4K-KOR
+  revision: SNS-AZ4K-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   9170aacd61bd2f936818db901451e44c18f3e88fd8d534553c2650ccad082466
+  label:    한국프로야구
+  name:     Hanguk Pro Yagu
+  region:   SNSN-3D-KOR
+  revision: SKOR-3D-0
+  board:    SHVC-2B3B-01
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+    memory
+      type: ROM
+      size: 0x1800
+      content: Program
+      manufacturer: NEC
+      architecture: uPD7725
+      identifier: DSP1
+    memory
+      type: ROM
+      size: 0x800
+      content: Data
+      manufacturer: NEC
+      architecture: uPD7725
+      identifier: DSP1
+    memory
+      type: RAM
+      size: 0x200
+      content: Data
+      manufacturer: NEC
+      architecture: uPD7725
+      identifier: DSP1
+      volatile
+    oscillator
+      frequency: 7600000
+
+game
+  sha256:   1bb9ba72dfec638ed4cc7c721e31fde2f3e08d160b266a62b6e3997f711cf7cd
+  label:    태권도
+  name:     Taekwondo
+  region:   SNSN-II-KOR
+  revision: SKOR-II-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+

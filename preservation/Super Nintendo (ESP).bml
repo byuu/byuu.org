@@ -1,0 +1,235 @@
+database
+  revision: 2018-09-21
+
+game
+  sha256:   bd5e7a6bc08f64d39c54204b82c6c156f144c03e13c890128588c5faa560659c
+  label:    The Addams Family: Pugsley's Scavenger Hunt
+  name:     Addams Family, The - Pugsley's Scavenger Hunt
+  region:   SNSP-AH-ESP
+  revision: SPAL-AH-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   7a75021fb390d04645b654a3dbd986c82cee1dbf34018e7ff7bf4b6ea125fa35
+  label:    Bram Stoker's Dracula
+  name:     Bram Stoker's Dracula
+  region:   SNSP-5D-ESP
+  revision: SPAL-5D-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   6582c8f0ebec73d9dee61c1ff95b7b8e7c753a30c7bdd5dab560025dc531a43e
+  label:    Cool World
+  name:     Cool World
+  region:   SNSP-CD-ESP
+  revision: SPAL-CD-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   4a4803056afb251b06a2e9fa68d8062b6999156535bb66ff9fb069de180f32c1
+  label:    Jack Nicklaus Golf
+  name:     Jack Nicklaus Golf
+  region:   SNSP-JN-ESP
+  revision: SPAL-JN-0
+  board:    SHVC-1A0N-10
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   929e15c8439b3beea249730e598e72cb192a3a70af0624ab7f91300f8f786a13
+  label:    Jurassic Park
+  name:     Jurassic Park
+  region:   SNSP-J8-ESP
+  revision: SESP-J8-0
+  board:    SHVC-2A0N-01
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   bd7e98db82d6b52307be1f3e1fd171e1e7204dc1f8810a95ee2cc64757087e4a
+  label:    The Lost Vikings
+  name:     Lost Vikings, The
+  region:   SNSP-LV-ESP
+  revision: SESP-LV-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   6eecabd46305ac95d9cf3a17e1392c24a1b68a7a313173ef0c5b5a3a24cf3353
+  label:    Lufia
+  name:     Lufia
+  region:   SNSP-ANIS-ESP
+  revision: SPAL-ANIS-0
+  board:    SHVC-1A3M-30
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   d70bc7916ed5132c3b0053f2adbb5004d78ccb986210c9440fedf642cac68554
+  label:    MechWarrior
+  name:     MechWarrior
+  region:   SNSP-WM-ESP
+  revision: SESP-WM-0
+  board:    SHVC-1A1M-10
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   d2233d6310522bbf183b6ca9bbe3e2afaf24de0cc4304bff6d0d547d678aed6f
+  label:    Sonic Blast Man
+  name:     Sonic Blast Man
+  region:   SNSP-SK-ESP
+  revision: SPAL-SK-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   a20d346da18ddabf70dc43f5095c4189c4a646ca8e6d4ed6c68c20e380f50332
+  label:    Super Battletank 2
+  name:     Super Battletank 2
+  region:   SNSP-2X-ESP
+  revision: SESP-2X-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   9eaf1c46d8a068c910d66f582e23b1155882ddfa4b9fd0813819fc5c008167e2
+  label:    Super James Pond
+  name:     Super James Pond
+  region:   SNSP-J5-ESP
+  revision: SPAL-J5-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   bd9cbb4c115716ec0f5d2d438bb812d02d496c41b7677a1d9520ff454254247b
+  label:    Syvalion
+  name:     Syvalion
+  region:   SNSP-SY-ESP
+  revision: SPAL-SY-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   7f731f4bb620e682132660da39641dda5762211dca4732f8192dd2411211b822
+  label:    Terranigma
+  name:     Terranigma
+  region:   SNSP-AQTS-ESP
+  revision: SPAL-AQTS-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   981128c93f0753dec7af29ec084f13e704cc5d02414be55bb477fc4b2fef5e58
+  label:    Tiny Toon Adventures: Buster Busts Loose!
+  name:     Tiny Toon Adventures - Buster Busts Loose!
+  region:   SNSP-TA-ESP
+  revision: SESP-TA-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   ce2445ecd0a43f6025dc80857d91dae7c46d33f7821bf98232c2894ca1959da2
+  label:    Turn and Burn: No-Fly Zone
+  name:     Turn and Burn - No-Fly Zone
+  region:   SNSP-ZN-ESP
+  revision: SESP-ZN-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   9ed876a632aa699047e9efba8a64ab57abc55086a0aab6b5fa67d87ea4647f3f
+  label:    Whirlo
+  name:     Whirlo
+  region:   SNSP-SH-ESP
+  revision: SPAL-SH-0
+  board:    SHVC-1A0N-10
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   ffcdce24171d9dc225a8a8b52e7d24a7832873f85135767359952537a8b9f8f1
+  label:    World Cup USA '94
+  name:     World Cup USA '94
+  region:   SNSP-U4-ESP
+  revision: SPAL-U4-0
+  board:    SHVC-2J3M-11
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   d897f80465d02a92f17e1eecb727b99211ec2fb9c58cbabfa76b35c554096ea6
+  label:    Young Merlin
+  name:     Young Merlin
+  region:   SNSP-Y6-ESP
+  revision: SPAL-Y6-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+

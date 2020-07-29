@@ -407,7 +407,7 @@ proven to be a fun way of adding some replay value to classic games.
 
 With my SNES emulation having successfully reached 100% accuracy, I moved on to
 trying to better preserve the SNES games library and to document the
-[hundreds of various PCBs](/preservation/boards-(production)) used in
+[hundreds of various PCBs](/preservation/) used in
 SNES game cartridges.
 
 This led to my most ambitious goal yet: to buy every single SNES game ever

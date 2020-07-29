@@ -1,0 +1,43 @@
+database
+  revision: 2018-04-14
+
+game
+  sha256:   7dbaebb1007984610623cb0b571f0e7167d73d89274598bfffc845cfb2de4aac
+  label:    Lufia
+  name:     Lufia
+  region:   SNSP-ANIP-AUS
+  revision: SPAL-ANIP-0
+  board:    SHVC-1A3M-30
+    memory
+      type: ROM
+      size: 0x280000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   0483780080d10bae49f62c3e4bf6954f891a29c0b1356b3a073cc894784593b8
+  label:    Space Invaders
+  name:     Space Invaders
+  region:   SNSP-IC-AUS
+  revision: SPAL-IC-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x40000
+      content: Program
+
+game
+  sha256:   a1daaaaacf723ddfa4fcb406d0218a045d8f8a78674b6449a2322a0306e0af9f
+  label:    Super Chase HQ
+  name:     Super Chase HQ
+  region:   SNSP-QT-AUS
+  revision: SPAL-QT-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+

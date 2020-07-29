@@ -1,0 +1,19 @@
+database
+  revision: 2018-04-14
+
+game
+  sha256:   1cf13dac329f83a7fe5347dcc20f92c3a09b3eab1511dd461f9cec90e9258403
+  label:    三国志III
+  name:     Sanguozhi III
+  region:   SNSN-S3-ROC
+  revision: SCHN-S3-0
+  board:    SHVC-1J5M-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+

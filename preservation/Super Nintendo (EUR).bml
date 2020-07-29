@@ -1,0 +1,1180 @@
+database
+  revision: 2018-09-21
+
+game
+  sha256:   ec3e81d628a293514e303b44e3b1ac03461ddd1da32764b10b7fab1e507602df
+  label:    Aaahh!!! Real Monsters
+  name:     Aaahh!!! Real Monsters
+  region:   SNSP-ANNP-EUR
+  revision: SPAL-ANNP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   a0baba78c9cad02957b80ed74fc8d09fac3c77e131e47333ef42ba471dc61228
+  label:    The Adventures of Batman & Robin
+  name:     Adventures of Batman & Robin, The
+  region:   SNSP-ABTP-EUR
+  revision: SPAL-ABTP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   e0c065aecfb6167cdb6dee8368b5f36d52fe55131ed4f6adbb3b2c62a39aafca
+  label:    The Adventures of Mighty Max
+  name:     Adventures of Mighty Max, The
+  region:   SNSP-AMOP-EUR
+  revision: SPAL-AMOP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   ffd634dbfa9ad88a81cfc59adcc889c15e03730536c171d358bf58b37c6bca6a
+  label:    Air Cavalry
+  name:     Air Cavalry
+  region:   SNSP-ACCP-EUR
+  revision: SPAL-ACCP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   65feac0ff8bf834bdb3f1eade09102496e1bd021a261ca05fc3a75983c357c84
+  label:    Alien 3
+  name:     Alien 3
+  region:   SNSP-A3-EUR
+  revision: SPAL-A3-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   79ff74b758bb5df40d9fb6f830e9370de799c7a1423c482b2cc74eee78c55127
+  label:    Animaniacs
+  name:     Animaniacs
+  region:   SNSP-ANCP-EUR
+  revision: SPAL-ANCP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   41084f83e269d46b9d589f11c802a15e84fede57d604c7986053f2858f757adc
+  label:    Archer Maclean's Super Dropzone
+  name:     Archer Maclean's Super Dropzone
+  region:   SNSP-ASDP-EUR
+  revision: SPAL-ASDP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   ea4240989114fd2c6dbbf2bfcafb2047ab482ebc4aa276f30f3dc7b551197808
+  label:    Ardy Lightfoot
+  name:     Ardy Lightfoot
+  region:   SNSP-A9-EUR
+  revision: SPAL-A9-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   f0cfaab9a4be5b2bac0cb3dafea14cea4cf8d7cbfa562323ab3026466985c9e1
+  label:    Bass Masters Classic: Pro Edition
+  name:     Bass Masters Classic - Pro Edition
+  region:   SNSP-A9BP-EUR
+  revision: SPAL-A9BP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   a10f7406d76a85e27ae340ed2dd2379897321ed388b439e247b3437fa07806cb
+  label:    Batman Forever
+  name:     Batman Forever
+  region:   SNSP-A3BP-EUR
+  revision: SPAL-A3BP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   4d347d60795008852ec11bc8e0256a3d1f159bf48c130b9798cb2961e560f319
+  label:    Beavis and Butt-Head
+  name:     Beavis and Butt-Head
+  region:   SNSP-ABUP-EUR
+  revision: SPAL-ABUP-0
+  board:    SHVC-2A0N-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   a73c8864743dd64a61d756ebe001a1244d6ae387621a46f9da4421d061c6b7ac
+  label:    Boogerman: A Pick and Flick Adventure
+  name:     Boogerman - A Pick and Flick Adventure
+  region:   SNSP-AB4P-EUR
+  revision: SPAL-AB4P-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   597894334926c326e332ecdea0d4ad61430ab6af03830a9beeb2c007c280c843
+  label:    Breath of Fire II
+  name:     Breath of Fire II
+  region:   SNSP-AF2P-EUR
+  revision: SPAL-AF2P-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   a057383e41bd5735b1c554c555b89fe0ff9b7eb7e9f9d46dbefbdd749c8d2181
+  label:    Brutal: Paws of Fury
+  name:     Brutal - Paws of Fury
+  region:   SNSP-ABLP-EUR
+  revision: SPAL-ABLP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   be86b8b9c390f1a85384117ce19170567e1234ddb08b538e1361af2feee63869
+  label:    Bubsy II
+  name:     Bubsy II
+  region:   SNSP-ABBP-EUR
+  revision: SPAL-ABBP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   3545306505c463c627bc4ced91ff4413481c945a658860ddc1f6e8e7b4cc6144
+  label:    Cannon Fodder
+  name:     Cannon Fodder
+  region:   SNSP-ACNP-EUR
+  revision: SPAL-ACNP-0
+  board:    SHVC-2A0N-11
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   04a347e7d600c8aff435e769f72273ac1ae8160838905f325f03ef4c5aa93bbe
+  label:    Captain Commando
+  name:     Captain Commando
+  region:   SNSP-QM-EUR
+  revision: SPAL-QM-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   0f37da5beb0beb5e8f8c34443bf0734575649f8222074e3394926c3b697589cc
+  label:    Carrier Aces
+  name:     Carrier Aces
+  region:   SNSP-ACAP-EUR
+  revision: SPAL-ACAP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   ca99787148aac7053ae9d1a1b06c8a5f42f2bfdd70c2942282a9dd0c1c0fda4f
+  label:    Castlevania: Vampire's Kiss
+  name:     Castlevania - Vampire's Kiss
+  region:   SNSP-ADZP-EUR
+  revision: SPAL-ADZP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   e1e2cc6b7ef58b512bb8aa6848dd67fce9e5d092ea67e6b4f31f156b060cc2b1
+  label:    Clay Fighter 2: Judgment Clay
+  name:     Clay Fighter 2 - Judgment Clay
+  region:   SNSP-ACZP-EUR
+  revision: SPAL-ACZP-0
+  board:    SHVC-BJ0N-01
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   b9d6cf21e7a280b83fadcf513029158be6f4dcdc51f73b699b7c215a5150be42
+  label:    CutThroat Island
+  name:     CutThroat Island
+  region:   SNSP-AC8P-EUR
+  revision: SPAL-AC8P-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   3a158e49478bd9a25b487a347c25f401cd0ed1cd1ccf72d8010752139a2143dc
+  label:    Demolition Man
+  name:     Demolition Man
+  region:   SNSP-AD6P-EUR
+  revision: SPAL-AD6P-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   f6afe40ced7033c845df84b895230fd26ea0b48e6a58d6b6e18beee9b594ad6e
+  label:    Demon's Crest
+  name:     Demon's Crest
+  region:   SNSP-3Z-EUR
+  revision: SPAL-3Z-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   a2dc5ffc82e8d055d030c3f021d8df3ae8b08571c8301cdd1d7652248d6f9b55
+  label:    Dino Dini's Soccer
+  name:     Dino Dini's Soccer
+  region:   SNSP-ADSP-EUR
+  revision: SPAL-ADSP-0
+  board:    SHVC-1A3M-21
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   574c61ab1a670a79b8dc69445b8f55aa5b4caa95ed0e1504fae8a1e3d336e7f1
+  label:    Donkey Kong Country 3: Dixie Kong's Double Trouble
+  name:     Donkey Kong Country 3 - Dixie Kong's Double Trouble
+  region:   SNSP-A3CP-EUR
+  revision: SPAL-A3CP-0
+  board:    SHVC-1J1M-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   753467f4e343a563a1e4f5da43b731968a47cf3fc035f98575134e680a596f27
+  label:    Dragon: The Bruce Lee Story
+  name:     Dragon - The Bruce Lee Story
+  region:   SNSP-4N-EUR
+  revision: SPAL-4N-0
+  board:    SHVC-1J0N-10
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   89dddd495d29db4542d45bf4a89d387bf2465eb8d2bd5b300c5397d8b24dc4af
+  label:    Dragon Ball Z: Hyper Dimension
+  name:     Dragon Ball Z - Hyper Dimension
+  region:   SNSP-AZIF-EUR
+  revision: SPAL-AZIF-0
+  board:    SNSP-1L0N3S-01
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+      volatile
+    memory
+      type: RAM
+      size: 0x800
+      content: Internal
+      volatile
+
+game
+  sha256:   4a96f3c0a7694a1d8235e2bf03b583ed2e99488d1dc0e26691db003fd23191f7
+  label:    Earthworm Jim
+  name:     Earthworm Jim
+  region:   SNSP-AEJP-EUR
+  revision: SPAL-AEJP-0
+  board:    SHVC-BJ0N-01
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   df2b34467581f8ffdad24f59119d54a03875f355d33ab552459b60f8f0de3e78
+  label:    Earthworm Jim 2
+  name:     Earthworm Jim 2
+  region:   SNSP-A2EP-EUR
+  revision: SPAL-A2EP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   f4cabd80dd20b076ff90bf1f394b5dff5800900fa1fe178a42b6af967fd80c25
+  label:    Fatal Fury 2
+  name:     Fatal Fury 2
+  region:   SNSP-DJ-EUR
+  revision: SPAL-DJ-0
+  board:    SHVC-BJ0N-01
+    memory
+      type: ROM
+      size: 0x280000
+      content: Program
+
+game
+  sha256:   a12391775fa9770f85f383ffaec6441a686c33b2e1800de7c01a79a0b7c93154
+  label:    Fatal Fury Special
+  name:     Fatal Fury Special
+  region:   SNSP-3R-EUR
+  revision: SPAL-3R-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   20af141280d75c29a0981c6a4decfa1835c3613a47636a4ae0967948a7878f7c
+  label:    Fever Pitch Soccer
+  name:     Fever Pitch Soccer
+  region:   SNSP-AVSP-EUR
+  revision: SPAL-AVSP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   ea769b616ad5d6f7b0a5e42951c31096191800347dc9fd6c8c9845f2afa95f5b
+  label:    FIFA '97
+  name:     FIFA '97
+  region:   SNSP-A7IP-EUR
+  revision: SPAL-A7IP-0
+  board:    EA-1A3M-30
+    memory
+      type: ROM
+      size: 0x1e0000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   14e8f7963bd71a3d8792952ae0c0def733178ac720417b954ea5cb12cc76dece
+  label:    Final Fight 3
+  name:     Final Fight 3
+  region:   SNSP-AFZP-EUR
+  revision: SPAL-AFZP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   a0106f9cff7abbf25e081e2531f6d4b4aedf6f0dc8d155a66506817bff267d12
+  label:    The Firemen
+  name:     Firemen, The
+  region:   SNSP-AFMP-EUR
+  revision: SPAL-AFMP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   21d79cd5382ad5503fdee1c44416a7a425904cebe37bb531d508ef62aa4f2ed0
+  label:    Frank Thomas' Big Hurt Baseball
+  name:     Frank Thomas' Big Hurt Baseball
+  region:   SNSP-AFKP-EUR
+  revision: SPAL-AFKP-0
+  board:    SHVC-1A3M-30
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   6a6a95528e4c8cfdf46cade2a354f3e28f63b55bba002e10af0f60227ec4c833
+  label:    Frantic Flea
+  name:     Frantic Flea
+  region:   SNSP-AF8P-EUR
+  revision: SPAL-AF8P-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   0d7a1649915d45b4c6e0752ea06ad353c2b1a590370912c18deeb42986821624
+  label:    Ghoul Patrol
+  name:     Ghoul Patrol
+  region:   SNSP-AGJP-EUR
+  revision: SPAL-AGJP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   ee4ab0df49db4024b5da62d04c18c8c866830b54d286dec69440af7285ec2854
+  label:    Hagane
+  name:     Hagane
+  region:   SNSP-AHGP-EUR
+  revision: SPAL-AHGP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   d98487781da9307309eec8830c6a28c907b0f1848e351df7f5b6d005c653b4ac
+  label:    Hurricanes
+  name:     Hurricanes
+  region:   SNSP-AHUP-EUR
+  revision: SPAL-AHUP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   21e8632a6da085cae5d4bcf7334c63fbda0028c2a37c0b0c3041ab59f307ebd3
+  label:    Incantation
+  name:     Incantation
+  region:   SNSP-AIYP-EUR
+  revision: SPAL-AIYP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   09d937a73595df67c473f1a4beba2f302570c1434d8093051d027ec1e440b984
+  label:    Indiana Jones' Greatest Adventures
+  name:     Indiana Jones' Greatest Adventures
+  region:   SNSP-AIJP-EUR
+  revision: SPAL-AIJP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   6fe482f91a59a71992e14014a0a4e23fb866cf4e870c10d57c81b0c20ae6688e
+  label:    International Superstar Soccer
+  name:     International Superstar Soccer
+  region:   SNSP-3U-EUR
+  revision: SPAL-3U-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   686f2507e9969fd7617fc544c139e124668294d102e79a0eb34478c8deb75271
+  label:    Izzy's Quest for the Olympic Rings
+  name:     Izzy's Quest for the Olympic Rings
+  region:   SNSP-AIZP-EUR
+  revision: SPAL-AIZP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   02cb423199be3368fc2b40148f83b7a48900394983e04d43f94bb7d76ce44e94
+  label:    Judge Dredd
+  name:     Judge Dredd
+  region:   SNSP-AJDP-EUR
+  revision: SPAL-AJDP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   2516843fa405ab1aa1f242b57f19977519aefb68599474d2c7065aaef88ecb88
+  label:    Jungle Strike
+  name:     Jungle Strike
+  region:   SNSP-AJGP-EUR
+  revision: SPAL-AJGP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   9b1dbcac063b524eef533e78cf7051e3f566a49d5ac13d23474dc6afb293d6be
+  label:    Jurassic Park Part 2: The Chaos Continues
+  name:     Jurassic Park Part 2 - The Chaos Continues
+  region:   SNSP-A2JP-EUR
+  revision: SPAL-A2JP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   07386ef7dfcc70a67beb01fa7e2300249914b2ce0b010a74cbfbf0714c32fcf1
+  label:    Justice League Task Force
+  name:     Justice League Task Force
+  region:   SNSP-AJLP-EUR
+  revision: SPAL-AJLP-0
+  board:    SHVC-BA0N-01
+    memory
+      type: ROM
+      size: 0x280000
+      content: Program
+
+game
+  sha256:   51364bc86ba8f00f0eeb2dcd59c68b42f94595af5ce272e914dedb5fc4ffa191
+  label:    Lemmings 2: The Tribes
+  name:     Lemmings 2 - The Tribes
+  region:   SNSP-L2-EUR
+  revision: SPAL-L2-0
+  board:    SHVC-1A1M-11
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   bf0d2739c2bd1aeba9cc979928e0702341cb290023dbc39bd25f18c1412fe674
+  label:    Marko's Magic Football
+  name:     Marko's Magic Football
+  region:   SNSP-AMRP-EUR
+  revision: SPAL-AMRP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   4f83fc7c1fa4fae99568ae8e049a45e6e65176761fe3ac74315bee8eff846fd4
+  label:    Marvel Super Heroes in War of the Gems
+  name:     Marvel Super Heroes in War of the Gems
+  region:   SNSP-AHZP-EUR
+  revision: SPAL-AHZP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   9da7274457995b39ae7b00387c1eaab92f1fdb0beac55372726c3a3af1cb8f7e
+  label:    MechWarrior 3050
+  name:     MechWarrior 3050
+  region:   SNSP-A35P-EUR
+  revision: SPAL-A35P-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   81f90a36c07221546c441d67689d951864f071f3218aa96994c0c54e93998a67
+  label:    Mega Man 7
+  name:     Mega Man 7
+  region:   SNSP-A7RP-EUR
+  revision: SPAL-A7RP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   ae6fb12b5077eaa9c13c6124368343bfef076bc1e42f53f442973576266255c4
+  label:    Mega Man X2
+  name:     Mega Man X2
+  region:   SNSP-ARXP-EUR
+  revision: SPAL-ARXP-0
+  board:    SHVC-2DC0N-01
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: ROM
+      size: 0xc00
+      content: Data
+      manufacturer: Hitachi
+      architecture: HG51BS169
+      identifier: Cx4
+    memory
+      type: RAM
+      size: 0xc00
+      content: Data
+      manufacturer: Hitachi
+      architecture: HG51BS169
+      identifier: Cx4
+      volatile
+    oscillator
+      frequency: 20000000
+
+game
+  sha256:   14cd1e5d7a810426c566c1c4eff16398cace6e7a4c0d7f048fdb1f4c22c1c135
+  label:    Mega Man X3
+  name:     Mega Man X3
+  region:   SNSP-AR3P-EUR
+  revision: SPAL-AR3P-0
+  board:    SHVC-1DC0N-01
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: ROM
+      size: 0xc00
+      content: Data
+      manufacturer: Hitachi
+      architecture: HG51BS169
+      identifier: Cx4
+    memory
+      type: RAM
+      size: 0xc00
+      content: Data
+      manufacturer: Hitachi
+      architecture: HG51BS169
+      identifier: Cx4
+      volatile
+    oscillator
+      frequency: 20000000
+
+game
+  sha256:   02a85c9e783add4e3d44f8f4718c014743f252585fedd9ae5583458237122b35
+  label:    Mohawk & Headphone Jack
+  name:     Mohawk & Headphone Jack
+  region:   SNSP-AJYP-EUR
+  revision: SPAL-AJYP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   b7fa4b79590ecdef2d0303b5cbccf1e1a3af31fca289652acbdb3d5381137f24
+  label:    Mortal Kombat 3
+  name:     Mortal Kombat 3
+  region:   SNSP-A3MP-EUR
+  revision: SPAL-A3MP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+
+game
+  sha256:   964f8391806bc8d674f24aa2f201b20982d2f2f3e3efb2f730c4a34a289c3007
+  label:    Mortal Kombat II
+  name:     Mortal Kombat II
+  region:   SNSP-28-EUR
+  revision: SPAL-28-1
+  board:    SHVC-BJ0N-01
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   bfec7d5afdf0d41cfce7f4e73dc20d91981db0edc2a0f41c5737d861efd4ab2a
+  label:    Mr. Do!
+  name:     Mr. Do!
+  region:   SNSP-AUNP-EUR
+  revision: SPAL-AUNP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x40000
+      content: Program
+
+game
+  sha256:   65377b1f6dbf1b3258c0554fe54ab0fbe59d6c3f07d3cad1c69ff692e0872b9a
+  label:    NBA Jam: Tournament Edition
+  name:     NBA Jam - Tournament Edition
+  region:   SNSP-AJTP-EUR
+  revision: SPAL-AJTP-0
+  board:    SHVC-BA1M-01
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x800
+      content: Save
+
+game
+  sha256:   aa3f0608fa8723a21a4a5121f04098c53a76b5188f4dc30fcc26db9232c734d8
+  label:    NHL '96
+  name:     NHL '96
+  region:   SNSP-A6HP-EUR
+  revision: SPAL-A6HP-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   25d04bba3f3b12c63ae7ee4450e1d924df7aff077515d634721e22e6420c09b9
+  label:    Ninja Warriors: The New Generation
+  name:     Ninja Warriors - The New Generation
+  region:   SNSP-NI-EUR
+  revision: SPAL-NI-0
+  board:    SHVC-2A0N-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   d9860f4f9b5e71290c5419b88c49b545f947a35cfe0549c2f32e54f05bc55815
+  label:    Olympic Summer Games
+  name:     Olympic Summer Games
+  region:   SNSP-AO9P-EUR
+  revision: SPAL-AO9P-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   2ec71aca4efc3791b6b3e65956df3eafd2a46e223d5ea71aead07d30ca48b6c9
+  label:    Operation Starfi5h
+  name:     Operation Starfi5h
+  region:   SNSP-AOSP-EUR
+  revision: SPAL-AOSP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   908b1b18403a1330e1af5844f8c9d11a66279ff107cf14b56e6be849fbd4a7f9
+  label:    Phantom 2040
+  name:     Phantom 2040
+  region:   SNSP-A24P-EUR
+  revision: SPAL-A24P-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   166fe888ac03f88cce5759c1008021082bd81254aab8fea8203cdb13080709d7
+  label:    Pinball Fantasies
+  name:     Pinball Fantasies
+  region:   SNSP-APFP-EUR
+  revision: SPAL-APFP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   1744a87d4817be07948e1b37b59c4de49c85e6aec2cf49879c7b9649d1b1fc90
+  label:    Primal Rage
+  name:     Primal Rage
+  region:   SNSP-AR9P-EUR
+  revision: SPAL-AR9P-0
+  board:    SHVC-BJ0N-20
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+
+game
+  sha256:   00e2c72fd82d78c5bb6f144101df6145d0a7f68dd77632f49969f13c5623c59a
+  label:    Realm
+  name:     Realm
+  region:   SNSP-ARQP-EUR
+  revision: SPAL-ARQP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   862a53905b9e2ed33bae8e01e755ab6ca9fe2f181567510cb0840ed9a19f20d8
+  label:    Rise of the Robots
+  name:     Rise of the Robots
+  region:   SNSP-AROP-EUR
+  revision: SPAL-AROP-0
+  board:    SHVC-BJ0N-01
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+
+game
+  sha256:   2d5e3091ce4912e2325dedf99b439c5b4cb6ba6899e25bf8957b19eda942de88
+  label:    RoboCop vs. The Terminator
+  name:     RoboCop vs. The Terminator
+  region:   SNSP-VR-EUR
+  revision: SPAL-VR-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   09fdef0c959e7275563f65d8267d95a20104f054e9438e9ac739ef7f46120a2d
+  label:    Smash Tennis
+  name:     Smash Tennis
+  region:   SNSP-JA-EUR
+  revision: SPAL-JA-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   9638d4daa7bc63fd178b77c4487c3b080def5b808c0b7ccc959101f33e221b42
+  label:    Spider-Man & Venom: Maximum Carnage
+  name:     Spider-Man & Venom - Maximum Carnage
+  region:   SNSP-AMCP-EUR
+  revision: SPAL-AMCP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   4001418ceb26f38efbea10b7bcc8233adc7bfcaa7e11dfb401d820f3254f06ef
+  label:    Street Fighter Alpha 2
+  name:     Street Fighter Alpha 2
+  region:   SNSP-AUZP-EUR
+  revision: SPAL-AUZP-0
+  board:    SNSP-1N0N-01
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+
+game
+  sha256:   4ef0053b294be64353df47e4f7d079cb97044e18263b55d46b6e4f9adda55766
+  label:    Super B.C. Kid
+  name:     Super BC Kid
+  region:   SNSP-ZH-EUR
+  revision: SPAL-ZH-0
+  board:    SHVC-2J0N-20
+    memory
+      type: ROM
+      size: 0x180000
+      content: Program
+
+game
+  sha256:   640acb63dae038ad6f0ae65e103416f5a1f84d4a37ddaeeab5046122def774d5
+  label:    Super Metroid
+  name:     Super Metroid
+  region:   SNSP-RI-EUR
+  revision: SPAL-RI-0
+  board:    SHVC-1A3M-30
+    memory
+      type: ROM
+      size: 0x300000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   148f6bbf0578ff6ec62e6dacb9e3d266f6d7a427baa104e8ecd3cb2df64bca14
+  label:    Super Soccer
+  name:     Super Soccer
+  region:   SNSP-FS-EUR
+  revision: SPAL-FS-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   92946358ee4fbc5cb1df81a26ebd323c2f4e8cc76acd038e1191b8aa31ad1c24
+  label:    Super Star Wars III: Return of the Jedi
+  name:     Super Star Wars III - Return of the Jedi
+  region:   SNSP-ARJP-EUR
+  revision: SPAL-ARJP-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   a52b98da8f65bf2210b7d2e931548c672838fa7e44d852f2e3c6f3cd2ba950d6
+  label:    Super Street Fighter II: The New Challengers
+  name:     Super Street Fighter II - The New Challengers
+  region:   SNSP-XW-EUR
+  revision: SPAL-XW-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+
+game
+  sha256:   299984b4148ee4503d67cba8469c5023f7ecb204949bc70c3271cc56b117bb8e
+  label:    Super Tennis
+  name:     Super Tennis
+  region:   SNSP-ST-EUR
+  revision: SPAL-ST-1
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   93ba50d853e98e1ca227a2ca72389c0e3ac18d6b50c946b3f618c16c2d3edd38
+  label:    Terranigma
+  name:     Terranigma
+  region:   SNSP-AQTP-EUR
+  revision: SPAL-AQTP-0
+  board:    SHVC-1J3M-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+    memory
+      type: RAM
+      size: 0x2000
+      content: Save
+
+game
+  sha256:   41648e6d73bd1b998f5c0737a4e61cd603e574ce4a3439e579d2b74b14390159
+  label:    Tiny Toon Adventures: Wild & Wacky Sports
+  name:     Tiny Toon Adventures - Wild & Wacky Sports
+  region:   SNSP-5Z-EUR
+  revision: SPAL-5Z-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   4ad736a9e1c7f34740afaa7777b8f1a31da4bb4a021e7ae341d1dafd74fa0acc
+  label:    True Lies
+  name:     True Lies
+  region:   SNSP-ATLP-EUR
+  revision: SPAL-ATLP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   dbf11d4c77b9aa3416f687201d57d71a23bb8fb0b8fe5e9e8212db3fac036631
+  label:    Turbo Toons
+  name:     Turbo Toons
+  region:   SNSP-ATTP-EUR
+  revision: SPAL-ATTP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+
+game
+  sha256:   03540084486c21724819515d1cb967c658f7f08ec180855fa7c191ca13d8bef1
+  label:    Ultimate Mortal Kombat 3
+  name:     Ultimate Mortal Kombat 3
+  region:   SNSP-A3ZP-EUR
+  revision: SPAL-A3ZP-0
+  board:    SHVC-1J0N-20
+    memory
+      type: ROM
+      size: 0x400000
+      content: Program
+
+game
+  sha256:   fc8c611bc46c850515a933d4388e2123e20ab24a3a3d3c1ac95afdc76c82c3d4
+  label:    Urban Strike
+  name:     Urban Strike
+  region:   SNSP-AUSP-EUR
+  revision: SPAL-AUSP-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+
+game
+  sha256:   1217ddf2fe475661a54f50e111864102faf854397ce5aceea4297204ebd6cbb6
+  label:    Val d'isère Championship
+  name:     Val d'isere Championship
+  region:   SNSP-8Z-EUR
+  revision: SPAL-8Z-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   150073c04e9c0e8b283a8eb237acea8fda3268c722f922ee42642009e17dc729
+  label:    Vortex
+  name:     Vortex
+  region:   SNSP-4V-EUR
+  revision: SPAL-4V-0
+  board:    SHVC-1CA0N5S-01
+    memory
+      type: ROM
+      size: 0x80000
+      content: Program
+    memory
+      type: RAM
+      size: 0x8000
+      content: Save
+      volatile
+    oscillator
+      frequency: 21440000
+
+game
+  sha256:   f47f1665d97d350dda8bf968543ed38b1daf63081d6f71e517867a5533ce4776
+  label:    Wild Guns
+  name:     Wild Guns
+  region:   SNSP-4W-EUR
+  revision: SPAL-4W-0
+  board:    SHVC-1A0N-30
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
+game
+  sha256:   aceb9ac7cfd68e6740de47ad1a19be70d4efe3974caa4aa8ec50b0a0a6672e47
+  label:    Winter Gold
+  name:     Winter Gold
+  region:   SNSP-AXSP-EUR
+  revision: SPAL-AXSP-0
+  board:    SHVC-1CB7B-01
+    memory
+      type: ROM
+      size: 0x200000
+      content: Program
+    memory
+      type: RAM
+      size: 0x10000
+      content: Save
+    oscillator
+      frequency: 21440000
+
+game
+  sha256:   142b9b3f99811c2314a94d2c4b66aa9d434f5bdc9ccbb1574e3a6cbf2176b378
+  label:    X-Kaliber 2097
+  name:     X-Kaliber 2097
+  region:   SNSP-X7-EUR
+  revision: SPAL-X7-0
+  board:    SHVC-1A0N-20
+    memory
+      type: ROM
+      size: 0x100000
+      content: Program
+
