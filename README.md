@@ -14,14 +14,6 @@ please [file an issue](https://github.com/byuu/byuu.org).
 
 ## Contents
 
-  - [About byuu/Near](/about/)
-  - Articles
-      - [The State of Emulation](./articles/state-of-emulation/) (2004-10-12)
-      - [The State of Emulation, Part II](./articles/state-of-emulation-ii/) (2007-08-05)
-      - [The State of Emulation, Part III](./articles/state-of-emulation-iii/) (2010-08-01)
-      - [The State of Emulation, Part IV](./articles/state-of-emulation-iv/) (2016-04-03)
-      - [The State of Emulation, Part V](./articles/state-of-emulation-v/) (2019-11-13)
-      - [The Edge of Emulation](./articles/edge-of-emulation/) (2020-01-21)
   - Projects
       - [bsnes](/bsnes)
       - higan
@@ -30,3 +22,11 @@ please [file an issue](https://github.com/byuu/byuu.org).
       - byuu
       - ares
   - [Preservation](./preservation/)
+  - Articles
+      - [The State of Emulation](./articles/state-of-emulation/) (2004-10-12)
+      - [The State of Emulation, Part II](./articles/state-of-emulation-ii/) (2007-08-05)
+      - [The State of Emulation, Part III](./articles/state-of-emulation-iii/) (2010-08-01)
+      - [The State of Emulation, Part IV](./articles/state-of-emulation-iv/) (2016-04-03)
+      - [The State of Emulation, Part V](./articles/state-of-emulation-v/) (2019-11-13)
+      - [The Edge of Emulation](./articles/edge-of-emulation/) (2020-01-21)
+  - [About byuu/Near](/about/)
