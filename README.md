@@ -26,6 +26,7 @@ please [file an issue](https://github.com/byuu/byuu.org).
       - [higan](/higan)
           - Game Paks
           - Firmware
+          - User Guide
       - byuu
       - ares
   - [Preservation](./preservation/)
