@@ -14,6 +14,8 @@ Let's say you store all your games in the `C:\Games` directory.
 If they were stored as game paks,
 you would only have to configure one path:
 
+| Data Type    | Path       |
+|--------------|------------|
 | Game Folders | `C:\Games` |
 
 ...and you might wind up with a structure like this:
@@ -35,6 +37,8 @@ On the other hand,
 if you use the traditional organization scheme most emulators use,
 you have to configure five paths:
 
+| Data Type       | Path                 |
+|-----------------|----------------------|
 | ROM path        | `C:\Games\ROMs\`     |
 | Save path       | `C:\Games\Saves\`    |
 | Firmware path   | `C:\Games\Firmware\` |
