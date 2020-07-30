@@ -22,9 +22,9 @@ please [file an issue](https://github.com/byuu/byuu.org).
 ## Contents
 
   - Projects
-      - [bsnes](/bsnes)
-      - [higan](/higan)
-          - [Game Paks](/higan/game-paks/)
+      - [bsnes](./bsnes)
+      - [higan](./higan)
+          - [Game Paks](./higan/game-paks/)
           - Firmware
           - User Guide
       - byuu
@@ -39,4 +39,4 @@ please [file an issue](https://github.com/byuu/byuu.org).
       - [The State of Emulation, Part IV](./articles/state-of-emulation-iv/) (2016-04-03)
       - [The State of Emulation, Part V](./articles/state-of-emulation-v/) (2019-11-13)
       - [The Edge of Emulation](./articles/edge-of-emulation/) (2020-01-21)
-  - [About byuu](/about/)
+  - [About byuu](./about/)
