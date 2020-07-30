@@ -6,7 +6,7 @@ inspired by the popularity of the revived [bsnes](../bsnes/),
 byuu added less-accurate, high-performance scanline renderers
 for many of the emulation cores in higan
 (like bsnes' optional high-performance mode),
-and an alternitave, bsnes-style user-interface.
+and an alternative, bsnes-style user-interface.
 
 Builds of v108 with both the bsnes-style scanline renderers
 and the bsnes-style UI were released under the project name "byuu",
