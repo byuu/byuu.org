@@ -14,7 +14,8 @@ It is available under the GNU GPL version 3 or later.
 
 ## Unique Features
 
-* True Super Game Boy emulation (using the SameBoy core by Lior Halphon)
+* True Super Game Boy emulation
+  (using the [SameBoy](https://sameboy.github.io/) core by Lior Halphon)
 * HD mode 7 graphics (by DerKoun) with optional supersampling
 * Low-level emulation of all SNES coprocessors (DSP-#, ST-01#, Cx4)
 * Multi-threaded PPU graphics renderer from [csnes](https://www.reddit.com/r/emulation/comments/8zz5ip/byuu_i_wrote_a_new_snes_emulator_from_scratch/)
