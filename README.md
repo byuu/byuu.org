@@ -33,6 +33,8 @@ please [file an issue](https://github.com/byuu/byuu.org).
       - [The State of Emulation](./articles/state-of-emulation/) (2004-10-12)
       - [The State of Emulation, Part II](./articles/state-of-emulation-ii/) (2007-08-05)
       - [The State of Emulation, Part III](./articles/state-of-emulation-iii/) (2010-08-01)
+      - [Accuracy takes power: one man's 3GHz quest to build a perfect SNES emulator](https://arstechnica.com/gaming/2011/08/accuracy-takes-power-one-mans-3ghz-quest-to-build-a-perfect-snes-emulator/) (2011-10-08)
+          - Published on Ars Technica, based on an earlier article called *Why Accuracy Matters*
       - [The State of Emulation, Part IV](./articles/state-of-emulation-iv/) (2016-04-03)
       - [The State of Emulation, Part V](./articles/state-of-emulation-v/) (2019-11-13)
       - [The Edge of Emulation](./articles/edge-of-emulation/) (2020-01-21)
