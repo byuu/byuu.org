@@ -305,6 +305,12 @@ and extract required program firmware from these coprocessors for the MAME
 project. I spoke with him and coordinated a deal where he would take on the ten
 coprocessors for the SNES in exchange for $250 per chip to cover parts.
 
+> [Decapping](https://en.wikipedia.org/wiki/Decapping)
+> is the process of removing the protective cover of a computer chip,
+> exposing the internal circuitry for inspection.
+> This often allows the functionality to be reverse-engineered,
+> and ROM contents (tables, firmware, etc.) to be read out. —Ed.
+
 This is work that traditionally costs tens of thousands of dollars per chip, so
 to say it was the deal of a lifetime is quite the understatement. I pitched in
 $250 myself and then fundraised the rest.
