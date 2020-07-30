@@ -33,6 +33,10 @@ Each record provides a human readable name,
 the ID of the circuit board it uses,
 and how the game's data fits onto that circuit board.
 
+Note that the SHA256 includes the main ROM data
+plus [concatenated firmware](../higan/firmware/),
+which most widely-available ROM images do not include.
+
 Commercial games, grouped by release region:
 
   - [Super Comboy (KOR).bml](./Super Comboy (KOR).bml)

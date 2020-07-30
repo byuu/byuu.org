@@ -25,7 +25,7 @@ please [file an issue](https://github.com/byuu/byuu.org).
       - [bsnes](./bsnes)
       - [higan](./higan)
           - [Game Paks](./higan/game-paks/)
-          - Firmware
+          - [Firmware](./higan/firmware/)
           - User Guide
       - byuu
       - ares
