@@ -12,6 +12,11 @@ but in March 2020 it was handed over to the community
 and byuu continued development under the name [ares](/ares).
 It is available under the GNU GPL version 3 or later.
 
+higan-the-project encompasses
+the multi-system emulator released under the name [byuu](../byuu/),
+which is mostly just a simplified user-interface
+for the same emulation cores.
+
   - [Source code](https://github.com/higan-emu/higan)
 
 # Documentation
