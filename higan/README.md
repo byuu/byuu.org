@@ -18,7 +18,7 @@ It is available under the GNU GPL version 3 or later.
 
   - [Game Paks (folders)](/higan/game-paks)
   - [Firmware](/higan/firmware)
-  - [User Guide (article)](/higan/user-guide)
+  - [User Guide](/higan/user-guide)
 
 # Screenshot
 
@@ -26,33 +26,33 @@ It is available under the GNU GPL version 3 or later.
 
 # Supported systems
 
-higan currently emulates the following systems:
+As of the final release, higan supported these systems:
 
-  - [Nintendo Famicom](#famicom)
-  - [Nintendo Famicom Disk System](#famicom-disk-system)
-  - [Nintendo Super Famicom](#super-famicom)
-  - [Nintendo Super Game Boy](#super-game-boy)
-  - [Nintendo Game Boy](#game-boy)
-  - [Nintendo Game Boy Color](#game-boy-color)
-  - [Nintendo Game Boy Advance](#game-boy-advance)
-  - [Nintendo Game Boy Player](#game-boy-player)
-  - [Sega SG-1000](#sg-1000)
-  - [Sega SC-3000](#sg-3000)
-  - [Sega Master System](#master-system)
-  - [Sega Game Gear](#game-gear)
-  - [Sega Mega Drive](#mega-drive)
-  - [Sega Mega CD](#mega-cd)
-  - [NEC PC Engine](#pc-engine)
-  - [NEC SuperGrafx](#supergrafx)
+  - [Famicom](#famicom)
+  - [Famicom Disk System](#famicom-disk-system)
+  - [Super Famicom](#super-famicom)
+  - [Super Game Boy](#super-game-boy)
+  - [Game Boy](#game-boy)
+  - [Game Boy Color](#game-boy-color)
+  - [Game Boy Advance](#game-boy-advance)
+  - [Game Boy Player](#game-boy-player)
+  - [SG-1000](#sg-1000)
+  - [SC-3000](#sc-3000)
+  - [Master System](#master-system)
+  - [Game Gear](#game-gear)
+  - [Mega Drive](#mega-drive)
+  - [Mega CD](#mega-cd)
+  - [PC Engine](#pc-engine)
+  - [SuperGrafx](#supergrafx)
   - [MSX](#msx)
   - [MSX2](#msx2)
   - [ColecoVision](#colecovision)
-  - [SNK Neo Geo Pocket](#neo-geo-pocket)
-  - [SNK Neo Geo Pocket Color](#neo-geo-pocket-color)
-  - [Bandai WonderSwan](#wonderswan)
-  - [Bandai WonderSwan Color](#wonderswan-color)
-  - [Bandai SwanCrystal](#swancrystal)
-  - [Benesse Pocket Challenge V2](#pocket-challenge-v2)
+  - [Neo Geo Pocket](#neo-geo-pocket)
+  - [Neo Geo Pocket Color](#neo-geo-pocket-color)
+  - [WonderSwan](#wonderswan)
+  - [WonderSwan Color](#wonderswan-color)
+  - [SwanCrystal](#swancrystal)
+  - [Pocket Challenge V2](#pocket-challenge-v2)
 
 ## Famicom
 
