@@ -1,4 +1,4 @@
-> This article was written by byuu/Near in March 2020,
+> This article was written by byuu in March 2020,
 > before his first attempt at retirement,
 > recording his story in his own words.
 

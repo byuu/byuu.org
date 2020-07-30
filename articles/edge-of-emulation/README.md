@@ -1,5 +1,5 @@
 > This article was originally published on 2020-01-21,
-> a little while before byuu/Near openly talked about retiring.
+> a little while before byuu openly talked about retiring.
 > 
 > After this article was published, a number of people volunteered to build
 > [custom circuit-boards](#custom-circuitboards), although as of August 2020

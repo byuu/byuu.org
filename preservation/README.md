@@ -1,6 +1,6 @@
 # SNES Preservation Project
 
-byuu/Near spent [many years and thousands of dollars][desc]
+byuu spent [many years and thousands of dollars][desc]
 collecting and dumping SNES and Super Famicom games.
 
 [desc]: /about/#snes-preservation-project
