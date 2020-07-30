@@ -1,7 +1,6 @@
 ![higan logo](/images/higan/logo.png)
 
-# Overview
-## — "Now you're playing with fire!"
+# higan — "Now you're playing with fire!"
 
 higan is a multi-system emulator that began development as "bsnes" on October
 14th, 2004.  The purpose of higan is to serve as hardware documentation in
@@ -21,8 +20,7 @@ It is available under the GNU GPL version 3 or later.
   - [Firmware](/higan/firmware)
   - [User Guide (article)](/higan/user-guide)
 
-higan is currently undergoing a major rewrite for v107. For now, here is the
-current user interface in the latest nightly releases:
+# Screenshot
 
 ![higan Main Window](/images/higan/higan.png)
 
@@ -30,18 +28,31 @@ current user interface in the latest nightly releases:
 
 higan currently emulates the following systems:
 
-  - [Famicom + Famicom Disk System](#famicom)
-  - [Super Famicom + Super Game Boy](#super-famicom)
-  - [Game Boy + Game Boy Color](#game-boy)
-  - [Game Boy Advance + Game Boy Player](#game-boy-advance)
-  - [SG-1000 + SC-3000](#sg-1000)
-  - [Master System + Game Gear](#master-system)
-  - [Mega Drive + Mega CD](#mega-drive)
-  - [PC Engine + SuperGrafx](#pc-engine)
-  - [MSX + MSX2](#msx)
+  - [Nintendo Famicom](#famicom)
+  - [Nintendo Famicom Disk System](#famicom-disk-system)
+  - [Nintendo Super Famicom](#super-famicom)
+  - [Nintendo Super Game Boy](#super-game-boy)
+  - [Nintendo Game Boy](#game-boy)
+  - [Nintendo Game Boy Color](#game-boy-color)
+  - [Nintendo Game Boy Advance](#game-boy-advance)
+  - [Nintendo Game Boy Player](#game-boy-player)
+  - [Sega SG-1000](#sg-1000)
+  - [Sega SC-3000](#sg-3000)
+  - [Sega Master System](#master-system)
+  - [Sega Game Gear](#game-gear)
+  - [Sega Mega Drive](#mega-drive)
+  - [Sega Mega CD](#mega-cd)
+  - [NEC PC Engine](#pc-engine)
+  - [NEC SuperGrafx](#supergrafx)
+  - [MSX](#msx)
+  - [MSX2](#msx2)
   - [ColecoVision](#colecovision)
-  - [Neo Geo Pocket + Neo Geo Pocket Color](#neo-geo-pocket)
-  - [WonderSwan + WonderSwan Color + SwanCrystal + Pocket Challenge V2](#wonderswan)
+  - [SNK Neo Geo Pocket](#neo-geo-pocket)
+  - [SNK Neo Geo Pocket Color](#neo-geo-pocket-color)
+  - [Bandai WonderSwan](#wonderswan)
+  - [Bandai WonderSwan Color](#wonderswan-color)
+  - [Bandai SwanCrystal](#swancrystal)
+  - [Benesse Pocket Challenge V2](#pocket-challenge-v2)
 
 ## Famicom
 
@@ -100,7 +111,7 @@ functionality to operate correcttly.
 higan's Super Game Boy emulation is powered through its own Game Boy emulation
 core.
 
-## Game Boy + Game Boy Color
+## Game Boy
 
 ![Link's Awakening](/images/higan/core-gb.png)
 
@@ -123,7 +134,7 @@ of the unusual color profile of the system.
 Like with the Game Boy core, more work is needed to really refine the accuracy
 of this system as well.
 
-## Game Boy Advance + Game Boy Player
+## Game Boy Advance
 
 ![Golden Sun](/images/higan/core-gba.png)
 
@@ -148,7 +159,7 @@ controller emulation for games that support it, which is really the only useful
 thing the Game Boy Player does. It's sadly not nearly as cool as the Super Game
 Boy was in terms of adding new functionality to games.
 
-## SG-1000 + SC-3000
+## SG-1000
 
 ![Ninja Princess](/images/higan/core-sg1000.png)
 
@@ -161,7 +172,7 @@ The SC-3000 is not as well supported, as the computer-specific portions are not
 really emulated. I haven't decided how far I want to go in emulating this
 system, but the basics are in place at least.
 
-## Master System + Game Gear
+## Master System
 
 ![Phantasy Star](/images/higan/core-ms.png)
 
@@ -230,7 +241,7 @@ problems.
 If you can help, please get in touch with me via the social media contact
 buttons above, thanks!
 
-## PC Engine + SuperGrafx
+## PC Engine
 
 ![Neutopia II](/images/higan/core-pce.png)
 
@@ -266,7 +277,7 @@ onscreen result. So much engineering effort for so few games.
 PC Engine CD emulation is planned for a future release, but is currently not
 supported, sorry.
 
-## MSX + MSX2
+## MSX
 
 ![Parodius](/images/higan/core-msx.png)
 
@@ -303,7 +314,7 @@ not?
 I don't have any plans to support the Coleco Adam at this time, but maybe one
 day if I have absolutely nothing else to work on.
 
-## Neo Geo Pocket + Neo Geo Pocket Color
+## Neo Geo Pocket
 
 ![Samurai Shodown!](/images/higan/core-ngp.png)
 
@@ -329,7 +340,7 @@ higan supports full emulation of the system BIOS, rather than relying on HLE
 
 The Neo Geo Pocket Color is of course supported as well.
 
-## WonderSwan + WonderSwan Color + SwanCrystal + Pocket Challenge V2
+## WonderSwan
 
 ![Langrisser Millenium](/images/higan/core-ws.png)
 
