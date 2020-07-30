@@ -150,7 +150,7 @@ for the west, before even knowing what anime was.
 I had played through Dragon Quest I - IV as a kid, and seeing the only fan
 translation for Dragon Quest V apparently dormant. I initially wanted to work
 with the other group fan translating the game, but by that point my reputation
-with Bahamut Lagoon preceeded me, and that wasn't allowed to happen.
+with Bahamut Lagoon preceded me, and that wasn't allowed to happen.
 
 Given the project claimed to be stalled due to technical challenges, and not to
 be deterred, I decided to set out on my own to tackle the game. After all of my
