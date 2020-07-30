@@ -4,7 +4,7 @@
 > byuu later added a simplified interface
 > which became the default for [ares](/ares).
 
-# Overview::overview
+# Overview
 
 higan v107 features a brand new tree-based GUI. The goal of this GUI rewrite was
 to be able to express complex configurations for all 25 (and counting) systems
@@ -30,7 +30,7 @@ higan v106 until the new user interface design is completed.
 
 Thank you!
 
-# Setup::setup
+# Setup
 
 higan runs [Game Paks](../game-paks/) instead of ROM image files. You will
 need to use the accompanying icarus tool in order to import
@@ -116,7 +116,7 @@ check the `Exclusive` box, like so:
 
 There's another slight glitch with the GUI on Windows where sometimes the GUI
 widgets won't be placed correctly and will overlap each other. Simply change
-the item selected on the left away and back (eg Video -> Audio -> Video) to
+the item selected on the left away and back (eg Video → Audio → Video) to
 correct this.
 
 You'll likely want to configure audio as well:
@@ -140,7 +140,7 @@ dropdown menu.
 Now that the higan base setup is complete, we can start creating systems and
 then playing games.
 
-From the top-left of the higan main window, choose System -> Create to begin
+From the top-left of the higan main window, choose System → Create to begin
 creating a new system. This will switch your panel dropdown to `Systems` and
 present you with a list of supported systems on the right:
 
@@ -254,7 +254,7 @@ go to the menubar and choose `Settings`:
 ![higan settings menu](/images/higan/user-guide/higan-menu.png)
 
 At this point, the setup is finally completed and we can start running games.
-Choose Super Famicom -> Power to begin playing the connected game pak:
+Choose Super Famicom → Power to begin playing the connected game pak:
 
 ![higan system menu](/images/higan/user-guide/higan-system-power-on.png)
 
@@ -287,14 +287,14 @@ There's also an `Events` filter which is used for creating debugging trace
 logs of CPU instructions and interrupts (and in the future, even more events.)
 But that's beyond the scope of this user guide.
 
-# Rationale::rationale
+# Rationale
 
 Look, I know this is complicated. I know this is unorthodox. I hear you. I've
 been using it too, I know. But I need to support esoteric configurations.
 
 The MSX with its two cartridge ports (one used for hardware expansions), two
 floppy disk drives, and a cassette tape drive isn't going to work well with a
-"File -> Load ROM" menu option.
+"File → Load ROM" menu option.
 
 The Genesis with Sonic 3 connected to Sonic & Knuckles connected to a Game
 Genie isn't going to work that way either.
