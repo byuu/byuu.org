@@ -28,7 +28,7 @@ please [file an issue](https://github.com/byuu/byuu.org).
           - [Firmware](./higan/firmware/)
           - [User Guide](./higan/user-guide/)
           - [byuu (the emulator)](./byuu)
-      - ares
+      - [ares](./ares)
   - [Preservation](./preservation/)
   - Articles
       - [The State of Emulation](./articles/state-of-emulation/) (2004-10-12)
