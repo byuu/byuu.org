@@ -1,3 +1,5 @@
+![byuu logo](/images/byuu/logo.png)
+
 From v091 to v107, [higan](../higan/) referred to
 byuu's multi-system emulator project as a whole.
 
