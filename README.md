@@ -39,4 +39,7 @@ please [file an issue](https://github.com/byuu/byuu.org).
       - [The State of Emulation, Part IV](./articles/state-of-emulation-iv/) (2016-04-03)
       - [The State of Emulation, Part V](./articles/state-of-emulation-v/) (2019-11-13)
       - [The Edge of Emulation](./articles/edge-of-emulation/) (2020-01-21)
+      - [How SNES emulators got a few pixels from complete perfection](https://arstechnica.com/gaming/2020/04/how-snes-emulators-got-a-few-pixels-from-complete-perfection/) (2020-04-01)
+          - Published on Ars Technica,
+            I think based in part on *The Edge of Emulation*
   - [About byuu](./about/)
