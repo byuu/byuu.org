@@ -21,7 +21,7 @@ or the other way around,
 although such combinations were never officially released
 and did not have unique names.
 
-Thus, from the release of v108 to the final v110:
+Thus, from the release of v108 onward:
 
   - "higan" could refer to just the complex user-interface,
     to the traditional dot-based renderers,
@@ -29,12 +29,6 @@ Thus, from the release of v108 to the final v110:
   - "byuu" could refer to just the simplified user-interface,
     to the high-performance scanline-based renderers,
     or the original name of the project's author.
-
-byuu-the-project did not get very popular
-before byuu-the-person moved on to working on [ares](/ares)
-and renaming everything,
-so this confusing period of the project's history
-is not of much concern today.
 
 The source-code of byuu-the-project
 is still part of the [higan source](https://github.com/higan-emu/higan),

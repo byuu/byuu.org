@@ -2,7 +2,7 @@
 > to help users understand the new, more complex interface.
 > Inspired by the popularity of bsnes,
 > byuu later added a simplified interface
-> which became the default for [ares](/ares).
+> released separately as [byuu](../../byuu/).
 
 # Overview
 

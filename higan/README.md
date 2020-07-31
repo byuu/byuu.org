@@ -8,14 +8,10 @@ source code form: it is meant to be as accurate and complete as possible,
 with code that is easy to read and understand.
 
 It was originally developed by byuu,
-but in March 2020 it was handed over to the community
-and byuu continued development under the name [ares](/ares).
+but in March 2020 it was handed over to the community.
+higan-the-project encompasses the forks and variants
+released as [byuu](../byuu/) and [ares](../ares/).
 It is available under the GNU GPL version 3 or later.
-
-higan-the-project encompasses
-the multi-system emulator released under the name [byuu](../byuu/),
-which is mostly just a simplified user-interface
-for the same emulation cores.
 
   - [Source code](https://github.com/higan-emu/higan)
 
