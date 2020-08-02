@@ -11,6 +11,8 @@ It is available under the GNU GPL version 3 or later.
   - [Official releases](https://github.com/bsnes-emu/bsnes/releases),
     including Windows binaries
   - [Source code](https://github.com/bsnes-emu/bsnes)
+  - [Discussion Forum](https://helmet.kafuka.org/bboard/forum.php?id=6)
+  - [Discord Chat](https://discord.gg/hbVycMJ) (in the #bsnes channel)
 
 ## Unique Features
 
