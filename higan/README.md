@@ -14,6 +14,8 @@ released as [byuu](../byuu/) and [ares](../ares/).
 It is available under the GNU GPL version 3 or later.
 
   - [Source code](https://github.com/higan-emu/higan)
+  - [Discussion Forum](https://helmet.kafuka.org/bboard/forum.php?id=6)
+  - [Discord Chat](https://discord.gg/hbVycMJ) (in the #higan channel)
 
 # Documentation
 
