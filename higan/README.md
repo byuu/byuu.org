@@ -13,6 +13,8 @@ higan-the-project encompasses the forks and variants
 released as [byuu](../byuu/) and [ares](../ares/).
 It is available under the GNU GPL version 3 or later.
 
+  - [Official releases](https://github.com/higan-emu/higan/releases),
+    including Windows binaries
   - [Source code](https://github.com/higan-emu/higan)
   - [Discussion Forum](https://helmet.kafuka.org/bboard/forum.php?id=6)
   - [Discord Chat](https://discord.gg/hbVycMJ) (in the #higan channel)
@@ -22,6 +24,7 @@ It is available under the GNU GPL version 3 or later.
   - [Game Paks (folders)](/higan/game-paks)
   - [Firmware](/higan/firmware)
   - [User Guide](/higan/user-guide)
+  - [Wiki](https://github.com/higan-emu/higan/wiki)
 
 # Screenshot
 
