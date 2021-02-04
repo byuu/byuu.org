@@ -9,8 +9,6 @@ with code that is easy to read and understand.
 
 It was originally developed by byuu,
 but in March 2020 it was handed over to the community.
-higan-the-project encompasses the forks and variants
-released as [byuu](../byuu/) and [ares](../ares/).
 It is available under the GNU GPL version 3 or later.
 
   - [Official releases](https://github.com/higan-emu/higan/releases),
