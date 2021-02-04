@@ -11,8 +11,7 @@ for many of the emulation cores in higan
 and an alternative, bsnes-style user-interface.
 
 Builds of v108 with both the bsnes-style scanline renderers
-and the bsnes-style UI were released under the project name "byuu",
-and byuu renamed himself "Near" at the same time.
+and the bsnes-style UI were released under the project name "byuu".
 Meanwhile, builds of v108 with the traditional dot-based renderers
 and the complex user-interface were released under the project name "higan".
 It was possible to produce an emulator
