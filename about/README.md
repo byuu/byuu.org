@@ -1,7 +1,3 @@
-> This article was written by byuu in March 2020,
-> before his first attempt at retirement,
-> recording his story in his own words.
-
 ![byuu's long-term avatar image](/images/about/giulio.png)
 
 I am byuu, a C++ programmer with over twenty years of experience. I'm mostly
