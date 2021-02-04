@@ -4,8 +4,7 @@ bsnes is a Super Nintendo / Super Famicom emulator that began development on
 October 14th, 2004. It focuses on performance, features, and ease of use.
 
 It was originally developed by byuu,
-but since his retirement in March 2020,
-it is now maintained by the community.
+but since March 2020, it is now maintained by the community.
 It is available under the GNU GPL version 3 or later.
 
   - [Official releases](https://github.com/bsnes-emu/bsnes/releases),
