@@ -16,7 +16,6 @@ if you find any conversion errors, please [file an issue.](https://github.com/by
           - [Firmware](./higan/firmware/)
           - [User Guide](./higan/user-guide/)
           - [byuu (the emulator)](./byuu)
-      - [ares](./ares)
   - [Preservation](./preservation/)
   - Articles
       - [The State of Emulation](./articles/state-of-emulation/) (2004-10-12)
