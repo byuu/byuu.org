@@ -1,23 +1,11 @@
 # byuu's personal website (archived)
 
-After byuu retired in July 2020,
-he took this website offline
-since he was no longer willing to maintain it.
-However,
-since so many other websites have linked to it over the years,
-the most important and interesting content has been collected and preserved.
-
-> **A note about names:**
-> Although he went by "byuu" for most of his career,
-> in March 2020 he briefly changed his name to Near.
-> Since most of the content of this site was written as "byuu",
-> since it's the more-familiar name,
-> and since he signed his July 2020 farewell message as "byuu",
-> we'll use that name for consistency.
+This website is an archived copy of byuu.org as it existed when it was closed on July 2020.
+As many other websites have linked to this domain over the years,
+the most important and interesting content has been collected and preserved here.
 
 This content has been manually converted to Markdown for ease of presentation;
-if you find any conversion errors,
-please [file an issue](https://github.com/byuu/byuu.org).
+if you find any conversion errors, please [file an issue.](https://github.com/byuu/byuu.org)
 
 ## Contents
 
