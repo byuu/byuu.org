@@ -10,7 +10,7 @@ if you find any conversion errors, please [file an issue.](https://github.com/by
 ## Contents
 
   - Projects
-      - [bsnes](./bsnes)
+      - [bsnes](https://bsnes.dev/)
       - [higan](./higan)
           - [Game Paks](./higan/game-paks/)
           - [Firmware](./higan/firmware/)

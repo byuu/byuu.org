@@ -12,7 +12,7 @@ he did manage to dump most of them,
 and published an in-progress database
 of the results he had gathered.
 Updates and extensions to this data are available
-in the [higan](../higan/) and [bsnes](../bsnes/) emulators.
+in the [higan](../higan/) and [bsnes](https://bsnes.dev) emulators.
 
 # Boards
 

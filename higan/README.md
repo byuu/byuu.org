@@ -89,7 +89,7 @@ data regenerated.
 ![Bahamut Lagoon](/images/higan/byuu-snes.png)
 
 The Super Famicom is the most well-emulated system in higan, on account of the
-entire project being an evolution upon what was originally [bsnes](/bsnes),
+entire project being an evolution upon what was originally [bsnes](https://bsnes.dev/),
 to which more emulators were added at later dates.
 
 Every single component is emulated at the raw clock level, every coprocessor is

@@ -244,7 +244,7 @@ Surprisingly, my venting was taken very well by the respective emulator
 developers, and I decided to give writing an emulator my first really serious
 attempt.
 
-And with this, on October 14th, 2004, [the bsnes project](/bsnes)
+And with this, on October 14th, 2004, [the bsnes project](https://bsnes.dev/)
 was born.
 
 ![Tengai Makyou Zero running in bsnes](/images/bsnes/byuu-bsnes-tengaimakyou.png)
