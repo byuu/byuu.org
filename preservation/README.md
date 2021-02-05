@@ -12,7 +12,7 @@ he did manage to dump most of them,
 and published an in-progress database
 of the results he had gathered.
 Updates and extensions to this data are available
-in the [higan](../higan/) and [bsnes](https://bsnes.dev) emulators.
+in the [higan](https://higan.dev) and [bsnes](https://bsnes.dev) emulators.
 
 # Boards
 
@@ -34,7 +34,7 @@ the ID of the circuit board it uses,
 and how the game's data fits onto that circuit board.
 
 Note that the SHA256 includes the main ROM data
-plus [concatenated firmware](../higan/firmware/),
+plus [concatenated firmware](https://github.com/higan-emu/higan/wiki/Firmware),
 which most widely-available ROM images do not include.
 
 Commercial games, grouped by release region:

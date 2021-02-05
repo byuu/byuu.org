@@ -333,7 +333,7 @@ bsnes was growing and the name no longer made sense for a multi-system emulator,
 and so I once again pulled from SNES JRPG protagonists, and chose Tengai Makyou
 Zero's Higan for a new name for the project.
 
-And with that, bsnes became [higan](/higan).
+And with that, bsnes became [higan](https://higan.dev).
 
 ![Riviera running in higan](/images/higan/core-wsc.png)
 

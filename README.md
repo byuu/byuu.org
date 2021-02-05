@@ -11,11 +11,7 @@ if you find any conversion errors, please [file an issue.](https://github.com/by
 
   - Projects
       - [bsnes](https://bsnes.dev/)
-      - [higan](./higan)
-          - [Game Paks](./higan/game-paks/)
-          - [Firmware](./higan/firmware/)
-          - [User Guide](./higan/user-guide/)
-          - [byuu (the emulator)](./byuu)
+      - [higan](https://higan.dev/)
   - [Preservation](./preservation/)
   - Articles
       - [The State of Emulation](./articles/state-of-emulation/) (2004-10-12)
